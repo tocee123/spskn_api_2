@@ -1,11 +1,17 @@
+
 # Úloha
 Od užívatela si vypýtaj:
-
- - dolnú hranicu intervalu
- - hornú hranicu intervalu
+ - dolnú hranicu intervalu, hranica môže byt záporná.
+ - hornú hranicu intervalu, hranica môže byt záporná.
  - deliteľa
-
-Vypíš na obrazovku všetky čísla deliteľné bezo zvyšku delitelom v uzavretom intervale. Hranice môžu byt záporné.
+## Skupina A
+Vypíš na obrazovku všetky čísla, ktoré:
+- sú deliteľné bezo zvyšku delitelom 
+- sú v uzavretom intervale
+## Skupina B
+Vypíš na obrazovku všetky čísla, ktoré:
+- **NIE** sú deliteľné bezo zvyšku delitelom 
+- sú v uzavretom intervale
 
 ## Príklad
 ```
