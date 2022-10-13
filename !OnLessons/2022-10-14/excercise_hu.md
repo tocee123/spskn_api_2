@@ -1,3 +1,4 @@
+
 # Feladat
 A felhasználótól kérjétek be a 
 
@@ -5,8 +6,16 @@ A felhasználótól kérjétek be a
  - az intervallum felső határát
  - osztót
 
-A képernyőre írjátok ki azokat a számokat, amelyek a zárt intervallumban találhatók és maradék nélkül oszthatók az osztóval. A számok lehetnek negatívak is. 
-
+## A csoport
+A képernyőre írjátok ki azokat a számokat, amelyek 
+- a zárt intervallumban találhatók
+- maradék nélkül oszthatók az osztóval. 
+- a számok lehetnek negatívak is. 
+## B csoport
+A képernyőre írjátok ki azokat a számokat, amelyek 
+- a zárt intervallumban találhatók
+- maradék nélkül **NEM** oszthatók az osztóval. 
+- a számok lehetnek negatívak is. 
 ## Példa
 ```
 This program will write out numbers between a closed interval that can be divided by the divisor
