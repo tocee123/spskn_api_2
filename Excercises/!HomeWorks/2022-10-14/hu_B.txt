@@ -1,0 +1,13 @@
+HU 1B
+Írj egy Python programot, amely bekér két pozitív egész számot a felhasználótól és kiírja a képernyőre azokat az 5-tel osztható egész számokat, amelyek a két adott érték közötti zárt intervallumban találhatóak!
+Zárt intervallum == beletartoznak a megadott számok
+1. Pelda: a billentyuzetrol beolvasott ertekek 13 es 30, kiírja: Az 5tel oszthato szamok a 13-30 kozotti intervallumbol: 15 20 25 30 
+2. Pelda: a billentyuzetrol beolvasott ertekek 19 es 2, kiírja: Az 5tel oszthato szamok a 2-19 kozotti intervallumbol: 5 10 15
+A fájl neve: 01B_vezeteknev_nev.py
+
+
+HU 2B
+Írj egy Python programot, amely bekér egy pozitív egész számot a felhasználótól és kiírja a képernyőre azokat a pozitív 3mal osztható számokat, amelyek kisebbek az adott számnál!
+1. Példa: a billentyűzetről beolvasott érték 19, kíírja: A 3mal oszthato es 0-19as/es intervallumban elhelyezkedo szamok a kovetkezok: 3 6 9 12 15 18 
+2. Példa: a billentyűzetről beolvasott érték -1, hibát jelez
+A fájl neve: 02B_vezeteknev_nev.py

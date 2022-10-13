@@ -1,0 +1,14 @@
+SK 1A
+Napis Python program, ktory si vypyta od pouzivatela 2 kladne cele cisla a na obrazovku vypise tie cisla, ktore sa nachadzaju v uzavretom intervale tych 2 cisel a su delitelne 3mi
+Uzavrety interval == patria tam obe cisla
+Priklad1: uzivatel zada 13 a 28 a program vypise: Cisla v intervale 13-28, ktore su delitelne 3mi su nasledovne: 15 18 21 24 27
+Priklad2: uzivatel zada 19 a 3 a program vypise: Cisla v intervale 3-19, ktore su delitelne 3mi su nasledovne: 3 6 9 12 15 18
+Nazov suboru: 01A_priezvisko_meno.py
+
+SK 2A
+Napis Python program, ktory nacita kladne cele cislo zo standardneho vstupu a vypise na obrazovku tie kladne cele cisla, ktore su mensie ako zadane cislo a su delitelne 5
+1. Priklad: nacitane cislo je 19, na obrazovku vypise: 5mi delitelne cisla existujuce v intervale 0 az 19 su nasledovne: 5 10 15
+2. Priklad: nacitane cislo je -1, na obrazovku vypise ze cislo musi byt vacsie ako 0
+Nazov suboru: 02A_priezvisko_meno.py
+VYPRACOVANIE:
+Žiak zatiaľ neodovzdal žiadne vypracova
