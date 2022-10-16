@@ -26,3 +26,6 @@ Segítség:
 - if-elif-else/match-case
 ## A leadandó fájl
 `2G_vezeteknev_nev.py`
+
+# Bónusz feladat
+Oldjátok meg egy `print`-tel
