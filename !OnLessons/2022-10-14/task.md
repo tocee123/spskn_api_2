@@ -24,14 +24,27 @@ The sum of the 18 entered numbers is -43313
 
 # Solution
 
+Either you can use read the first number before the while loop:
+
+```py
+sum = 0
+count = 0
+enteredNumber=int(input("Enter a number, 0 exits the program: "))
+while enteredNumber != 0:
+    enteredNumber=int(input("Enter a number, 0 exits the program: "))
+    sum=sum+enteredNumber
+    count+=1
+print(f"The sum of the {count} entered number{'s' if count>1 else ''} is {sum}")
+```
+or you can do it inside the while loop, but then you have to pay attention to the fact, that you have to break from the neverending cycle:
 ```py
 sum = 0
 count = 0
 while True:
-    a=int(input("Enter a number, 0 exits the program: "))
-    sum=sum+a
+    enteredNumber=int(input("Enter a number, 0 exits the program: "))
+    sum=sum+enteredNumber
     count+=1
-    if a==0:
+    if enteredNumber==0:
         break
 print(f"The sum of the {count} entered number{'s' if count>1 else ''} is {sum}")
 ```
