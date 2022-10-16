@@ -17,7 +17,8 @@ if maxNumber == 20:
 else:
  print("nieco ine")
 ```
-
+## Pouzivajte jeden tab
+je to viac prehladne
 ```py
 maxNumber = 10
 if maxNumber == 20:
@@ -25,3 +26,20 @@ if maxNumber == 20:
 else:
   print("nieco ine")
 ```
+
+```py
+x = 19
+
+if x >= 18 :
+    if x >= 20:
+        print('if x >= 18')
+        print('and x >= 20')
+    print("x can be 18")
+    print("19")
+    print("bello")
+else:
+    print("go to bed")
+    a = 10
+    b = 20
+    print (a+b+123)
+```    
