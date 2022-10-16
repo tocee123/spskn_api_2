@@ -21,3 +21,17 @@ Enter a number, 0 exits the program: 645
 Enter a number, 0 exits the program: 0
 The sum of the 18 entered numbers is -43313
 ```
+
+# Solution
+
+```py
+sum = 0
+count = 0
+while True:
+    a=int(input("Enter a number, 0 exits the program: "))
+    sum=sum+a
+    count+=1
+    if a==0:
+        break
+print(f"The sum of the {count} entered number{'s' if count>1 else ''} is {sum}")
+```
