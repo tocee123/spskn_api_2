@@ -64,3 +64,26 @@ while i>10:
 		break
 ```
 Here it is tricky, the condition in `while` is `i>0`, but we increment the `i` so it would run forever, hence when we reach 30 it will break out from the cycle
+
+# The else branche
+
+```py
+i = 0
+while i<5:
+    i+=1
+    print("apple")
+else:
+    print("123")
+```
+This will print 5 times _apple_ and then at the end _123_, but if we `break` out of the cycle:
+```py
+i = 0
+while i<5:
+    i+=1
+    print("apple")
+    if(i==2):
+        break
+else:
+    print("123")
+```
+It will print _apple_ 2 times, but _123_ won't be written
