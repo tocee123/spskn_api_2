@@ -7,6 +7,7 @@ V tomto programe budete pracovať s prvočíslami, výpíšete všetky v danom i
 1. Potom si vypýtate hornú hranicu intervalu výpisu. Interval je uzavretý z oboch strán: 1 až horná hranica.
 
 _Prvočíslo: číslo, ktoré sa dá deliť len 1 a samým sebou_
+
 _Uzavretý interval: patrí tam aj dolná aj horná hranica_
 
 # Feladat
@@ -19,6 +20,7 @@ Ebben a feladatban prímszámokkal fogtok dolgozni, kiírjátok őket egy adott 
 1. Utána felszólítja a felhasználót, hogy adja meg az intervallum felső határát, az intervallum zárt: 1től a felső határig
 
 _Prímszám: olyan szám, ami csak 1-gyel és önmagával osztható_
+
 _Zárt intervallum: az intervallumba beletartozik az alsó és felső határ is_
 # Example
 ## 1- Just primes
