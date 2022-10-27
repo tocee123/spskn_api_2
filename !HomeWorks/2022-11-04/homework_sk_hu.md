@@ -1,3 +1,4 @@
+
 # Úloha
 V tomto programe budete pracovať s prvočíslami, výpíšete všetky v danom intervale a to podľa nasledovných pravidiel:
  1. Od používateľa si vypýtate, čo sa má zobraziť:
@@ -5,7 +6,9 @@ V tomto programe budete pracovať s prvočíslami, výpíšete všetky v danom i
 	 2. len **nie** prvočísla, vypíše aj ľubovoľný násobok 2 čísel, z ktorého sa skladá dané číslo
 	 3. **všetky** čísla a napíše, či je **prvočíslo**, alebo ak **nie**, vypíše aj ľubovoľný násobok 2 čísel, z ktorého sa skladá dané číslo
 1. Potom si vypýtate hornú hranicu intervalu výpisu. Interval je uzavretý z oboch strán: 1 až horná hranica.
-
+## Dôležité
+Odovzdaný súbor má mať formát: `2F_priezvisko_meno.py`
+## Poznámky
 _Prvočíslo: číslo, ktoré sa dá deliť len 1 a samým sebou_
 
 _Uzavretý interval: patrí tam aj dolná aj horná hranica_
@@ -18,7 +21,9 @@ Ebben a feladatban prímszámokkal fogtok dolgozni, kiírjátok őket egy adott 
 	 2. csak **nem** a prímszámokat, és hozzá kiír egy tetszőleges szorzatot, amiből az adott szám áll
 	 3. **minden** számot, amihez kiírja, hogy az adott szám **prímszám**, vagy ha **nem** prímszám, kiír egy tetszőleges szorzatot, amiből az adott szám áll
 1. Utána felszólítja a felhasználót, hogy adja meg az intervallum felső határát, az intervallum zárt: 1től a felső határig
-
+## Fontos
+A leadott fájl formátuma: `2G_vezeteknev_nev.py`
+## Megjegyzések
 _Prímszám: olyan szám, ami csak 1-gyel és önmagával osztható_
 
 _Zárt intervallum: az intervallumba beletartozik az alsó és felső határ is_
