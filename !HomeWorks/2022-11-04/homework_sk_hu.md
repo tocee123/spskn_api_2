@@ -33,7 +33,6 @@ This program will find the prime numbers for you. You can choose:
 Give the upper border: 20
 2, is a prime number
 3, is a prime number
-4, is a prime number
 5, is a prime number
 7, is a prime number
 11, is a prime number
@@ -50,6 +49,7 @@ This program will find the prime numbers for you. You can choose:
 3- both
 - 2
 Give the upper border: 20
+4 equals 2*2
 6 equals 2*3
 8 equals 2*4
 9 equals 3*3
@@ -71,7 +71,7 @@ This program will find the prime numbers for you. You can choose:
 Give the upper border: 29
 2, is a prime number
 3, is a prime number
-4, is a prime number
+4 equals 2*2
 5, is a prime number
 6 equals 2*3
 7, is a prime number
