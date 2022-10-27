@@ -1,16 +1,25 @@
 # Úloha
-Napíšte program, ktorý si vypýta od uživateľa, hornú hranicu zatvoreného intervalu <0, hornaHranica> a vypíše čísla nasledovne, ak používateľ zadá:
-1. len prvočísla
-2. len **nie** prvočísla, vypíše aj ľubovoľný násobok 2 čísel
-3. všetky čísla s označením, či je **prvočíslo**, alebo ak **nie**, tak vypíše aj ľubovoľný násobok 2 čísel
-Prvočíslo: číslo, ktoré sa dá deliť len 1 a samým sebou
+V tomto programe budete pracovať s prvočíslami, výpíšete všetky v danom intervale a to podľa nasledovných pravidiel:
+ 1. Od používateľa si vypýtate, čo sa má zobraziť:
+	 1. **len** prvočísla
+	 2. len **nie** prvočísla, vypíše aj ľubovoľný násobok 2 čísel, z ktorého sa skladá dané číslo
+	 3. **všetky** čísla a napíše, či je **prvočíslo**, alebo ak **nie**, vypíše aj ľubovoľný násobok 2 čísel, z ktorého sa skladá dané číslo
+1. Potom si vypýtate hornú hranicu intervalu výpisu. Interval je uzavretý z oboch strán: 1 až horná hranica.
+
+_Prvočíslo: číslo, ktoré sa dá deliť len 1 a samým sebou_
+_Uzavretý interval: patrí tam aj dolná aj horná hranica_
 
 # Feladat
-Írj egy olyan programot,a melyik bekéri a felhasználótól az intervallum zárt felső határát <0, felsőHatár>, és kiírja közben a következőket a felhasználó választása szerint:
-1. csak a prímszámokat
-2. csak **nem** a prímszámokat, amelyikhez kiírja két tetszóleges szám szorzatát
-3. az összes számot, megjegyezve, melyik a **prímszám**, melyik **nem prímszám**, amelyikhez kiírja két tetszóleges szám szorzatát
-Prímszám: ami csak 1-gyel és önmagával osztható
+
+Ebben a feladatban prímszámokkal fogtok dolgozni, kiírjátok őket egy adott intervallumban a következő szabályok szerint:
+ 1. A felhasználótól megkérdezitek, mit szeretne kiíratni:
+	 1. **csak** a prímszámokat
+	 2. csak **nem** a prímszámokat, és hozzá kiír egy tetszőleges szorzatot, amiből az adott szám áll
+	 3. **minden** számot, amihez kiírja, hogy az adott szám **prímszám**, vagy ha **nem** prímszám, kiír egy tetszőleges szorzatot, amiből az adott szám áll
+1. Utána felszólítja a felhasználót, hogy adja meg az intervallum felső határát, az intervallum zárt: 1től a felső határig
+
+_Prímszám: olyan szám, ami csak 1-gyel és önmagával osztható_
+_Zárt intervallum: az intervallumba beletartozik az alsó és felső határ is_
 # Example
 ## 1- Just primes
 ```
