@@ -1,4 +1,5 @@
 
+
 # Úloha
 V tomto programe budete pracovať s prvočíslami, výpíšete všetky v danom intervale a to podľa nasledovných pravidiel:
  1. Od používateľa si vypýtate, čo sa má zobraziť:
@@ -12,6 +13,11 @@ Odovzdaný súbor má mať formát: `2F_priezvisko_meno.py`
 _Prvočíslo: číslo, ktoré sa dá deliť len 1 a samým sebou_
 
 _Uzavretý interval: patrí tam aj dolná aj horná hranica_
+
+## 30-10-2022 Update
+Ľahšia varianta za 3 bude:
+1. vypýtate od používateľa kladné číslo `>1`
+2. napíšete na obrazovku, či je to prvočíslo alebo nie
 
 # Feladat
 
@@ -27,6 +33,10 @@ A leadott fájl formátuma: `2G_vezeteknev_nev.py`
 _Prímszám: olyan szám, ami csak 1-gyel és önmagával osztható_
 
 _Zárt intervallum: az intervallumba beletartozik az alsó és felső határ is_
+## 2022-10-30 Update
+Könnyebb feladat 3asért:
+1. bekértek egy pozitív egész számot `>1`
+2. kiírjátok a képernyőre, hogy prímszám-e
 # Example
 ## 1- Just primes
 ```
