@@ -38,7 +38,7 @@ my_variable_name = "John"
 Egyenloseggel adunk erteket a valtozoknak:
 ```py
 alma = "alma"
-kisSzam = 10,
+kisSzam = 10
 nagySzam = 9781239.13
 pi = 3.14
 print(alma)
