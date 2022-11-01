@@ -1,5 +1,6 @@
 
 
+
 # Úloha
 V tomto programe budete pracovať s prvočíslami, výpíšete všetky v danom intervale a to podľa nasledovných pravidiel:
  1. Od používateľa si vypýtate, čo sa má zobraziť:
@@ -19,6 +20,24 @@ _Uzavretý interval: patrí tam aj dolná aj horná hranica_
 1. vypýtate od používateľa kladné číslo `>1`
 2. napíšete na obrazovku, či je to prvočíslo alebo nie
 
+<!--
+## 2-11-2022 Update
+Na to, aby ste zistili, či číslo je prvočíslo, budete musieť prejsť celý interval čísel od `2` po `n-1`, kde `n` je hľadané číslo
+Použiť môžete Pythonovu deklaráciu for cyklu
+```py
+for i in range(2, n):
+	when modulo for any i is 0, n is not prime
+else:
+	it is prime```
+```
+alebo použijete takzvané flagy https://www.youtube.com/watch?v=lZ51aXq-VIg&ab_channel=CalebCurry čím si budete značiť, čo sa udialo
+```py
+isPrime = True
+for i in range(2, n):
+	when modulo for any i is 0, n is not prime 
+		then isPrime = False
+```
+--->
 # Feladat
 
 Ebben a feladatban prímszámokkal fogtok dolgozni, kiírjátok őket egy adott intervallumban a következő szabályok szerint:
@@ -37,6 +56,26 @@ _Zárt intervallum: az intervallumba beletartozik az alsó és felső határ is_
 Könnyebb feladat 3asért:
 1. bekértek egy pozitív egész számot `>1`
 2. kiírjátok a képernyőre, hogy prímszám-e
+
+<!--
+## 2022-11-02 Update
+Ahhoz, hogy egy számról megállapítsátok, hogy prímszám-e, végig kell haladni az összes lehetséges osztón `2`től `n-1`-ig, ahol `n` a szám, amelyikről ki akarjuk deríteni, hogy prímszám-e. 
+kétféleképpen lehet Pythonban megkeresni, az első módszer Python specifikus:
+```py
+for i in range(2, n):
+	when modulo for any i is 0, n is not prime
+else:
+	it is prime
+```
+Vagy úgynevezett flag, zászló változót használtok https://www.youtube.com/watch?v=lZ51aXq-VIg&ab_channel=CalebCurry amelyikkel azt jelzitek, történt-e változás:
+```py
+isPrime = True
+for i in range(2, n):
+	when modulo for any i is 0, n is not prime 
+		then isPrime = False
+```
+--->
+
 # Example
 ## 1- Just primes
 ```
