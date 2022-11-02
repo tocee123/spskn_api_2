@@ -1,6 +1,6 @@
 # Exercise
 
-Given a positive integer `n`, read from the keyboard, the upper border of the range (including) and you have to write to the terminal:
+Given a positive integer `n`, read from the keyboard, the upper border of the range (including). Going through the range you have to write to the terminal:
 
 -   `"FizzBuzz"`  if  `i`  is divisible by  `3`  and  `5`.
 -   `"Fizz"`  if  `i`  is divisible by  `3`.
