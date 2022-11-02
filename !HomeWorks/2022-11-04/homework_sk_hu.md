@@ -27,7 +27,7 @@ Použiť môžete Pythonovu deklaráciu for cyklu
 for i in range(2, n):
 	when modulo for any i returns 0, n is not prime
 else:
-	it is prime```
+	it is prime
 ```
 alebo použijete takzvané flagy https://www.youtube.com/watch?v=lZ51aXq-VIg&ab_channel=CalebCurry čím si budete značiť, čo sa udialo
 ```py
