@@ -23,7 +23,11 @@ Na obrazovku vypíšte:
 	4. usporiadanie doprava `rjust(x)`
 2. Používajte `random` knižnicu cez `import`
 3. Primerný plat-> (suma platov/počet zamestnancov)
-1. Pomócka na začiatok [link](https://github.com/tocee123/spskn_api_2/blob/main/!OnLessons/2022-11-04_04_exercise.md)
+4. Pomócka na začiatok [link](https://github.com/tocee123/spskn_api_2/blob/main/!OnLessons/2022-11-04_04_exercise.md)
+## Známky
+1. keď program bude vypisovať hlasky ako v Example, dbajte na poradie, najprv vypisujte ohľadom firmy a potom jednotlivých zamestnancov
+2. keď kód je čitateľný, vypíšeste hlášky, ale formátovanie textu a poradie je iné, ako sa požaduje
+3. kód urobí niečo podoné, ale sú tam nejasnosti
 
 # Házi feladat- cég
 Ebben a házi feladatban a véletlen számokkal fogtok dolgozni a `random` könyvtárból. A feladat a következő:
@@ -50,7 +54,11 @@ A képernyőre kiírjátok:
 	4. jobbra rendezés `rjust(x)`
 2. Használjátok a `random` könyvtárat `import`on keresztül
 3. Átlagfizetés -> (fizetések summája/munkások bérével)
-1. Egy kis segítség  [link](https://github.com/tocee123/spskn_api_2/blob/main/!OnLessons/2022-11-04_04_exercise.md)
+4. Egy kis segítség  [link](https://github.com/tocee123/spskn_api_2/blob/main/!OnLessons/2022-11-04_04_exercise.md)
+## Jegyek
+1. Ha a program úgy fogja kiírni, formázni a szöveget, ahogy azt az Example részben látjátok, ügyeljetek a sorrendre: először a cégről általánosságban, utána jöhetnek az egyes alkalmazottak
+1. A kód olvasható, helyesen írja ki a szöveget, éppen csak a formátozás, és a sorrend más, mint ahogy elő van írva
+1. a programkód valami hasonlót csinál, nehezebb értelmezni, elégtelenségeket tartalmaz
 
 # Example
 ```
