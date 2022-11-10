@@ -1,3 +1,4 @@
+
 # Domáca úloha- firma
 V tejto domácej úlohe budete pracovať s náhodnými číslami z knižnice `random`. Úlohy sú nasledovné:
 - náhodne vygenerovať počet zamestnancov vo firme (50-70)
@@ -5,10 +6,10 @@ V tejto domácej úlohe budete pracovať s náhodnými číslami z knižnice `ra
 	- náhodne vygenerovať pohlavie zamestnanca (muž, žena)
 	- náhodne vygenerovať plat zamestnanca (1000 EUR- 10000 EUR)
 	- rozhodnúť sa podla platu, akú funkciu má zamestnanec:
-		-  8000 \>plat< 10000: Director
-		-  6000 \>plat < 8000: Manager
-		- 4000 \>plat< 6000: Associate Manager
-		- 4000 \>plat< 4000: Worker
+		- 8000 < plat < 10000: Director
+		- 6000 < plat < 8000: Manager
+		- 4000 < plat < 6000: Associate Manager
+		- plat< 4000: Worker
 
 Na obrazovku vypíšte:
 - Koľko je zamestnancov vo firme
@@ -36,10 +37,10 @@ Ebben a házi feladatban a véletlen számokkal fogtok dolgozni a `random` köny
 	- véletlenszerűen meghatározni az alkalmazott nemét (férfi, nő)
 	- véletlenszerűen kigenerálni az alkalmazott bérét (1000 EUR- 10000 EUR)
 	- a bér alapján meghatározni az alkalmazott pozícióját:
-		-  8000 \>fizetés< 10000: Director
-		-  6000 \>fizetés< 8000: Manager
-		- 4000 \>fizetés< 6000: Associate Manager
-		- 4000 \>fizetés< 4000: Worker
+		- 8000 < fizetés < 10000: Director
+		- 6000 < fizetés < 8000: Manager
+		- 4000 < fizetés < 6000: Associate Manager
+		- fizetés < 4000: Worker
 
 A képernyőre kiírjátok:
 - Hány alkalmazott van a cégben
