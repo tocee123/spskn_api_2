@@ -59,9 +59,11 @@ if(majuObaRetazceViacAko10Znakov):
 else:
 	print(f"Jeden alebo oba retazce su kratsie, ako {minimalnaDlzka} znakov")
 ```
-> Zadaj prvy retazec: 12344334324 
+```
+Zadaj prvy retazec: 12344334324 
 Zadaj prvy retazec: 23e42309asflij
 Ano, oba retazce maju viac ako 10 znakov
+```
 
 ```py
 def  SuRetazceDhlsieAkoMinimalnaDlzka(r1:str, r2:str, min:int)->bool:
@@ -77,9 +79,11 @@ if(SuRetazceDhlsieAkoMinimalnaDlzka(retazec1, retazec2, minimalnaDlzka)):
 else:
 	print(f"Jeden alebo oba retazce su kratsie, ako {minimalnaDlzka} znakov")
 ```
-> Zadaj prvy retazec: 12344334324 
+```
+Zadaj prvy retazec: 12344334324 
 Zadaj prvy retazec: 23e42309asflij
 Ano, oba retazce maju viac ako 10 znakov
+```
 
 ### Priklad, zistit o cisle, ci je zaporne, kladne alebo 0
 Mozeme dat rozhodnutie priamo do `for` cykla
@@ -123,7 +127,8 @@ print("este sa tu udeje nieco ine")
 for i in range(-4, 1):
     print(VratParametreCisla(i))
 ```
->Cislo -2 je zaporne
+```
+Cislo -2 je zaporne
 Cislo -1 je zaporne
 Cislo je 0
 Cislo 1 je kladne
@@ -135,9 +140,7 @@ Cislo -3 je zaporne
 Cislo -2 je zaporne
 Cislo -1 je zaporne
 Cislo je 0
-
-
-
+```
 <!--
 ### Priklad, rozhodnime sa, aku poziciu ma zamestnanec na zaklade mzdy
 ```py
