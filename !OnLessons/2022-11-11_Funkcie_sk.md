@@ -27,8 +27,9 @@ def PozdravUzivatela(meno:str, priezvisko: str)-> None:
 	print(f"Ahoj {meno} {priezvisko}! Aky mas dnes den?")
 PozdravUzivatela("John", "Doe")
 ```
-> Ahoj John Doe! Aky mas dnes den?
-
+```
+Ahoj John Doe! Aky mas dnes den?
+```
 ## Deklaracia funkcie s vystupnym parametrom
 Nasledujuca funkcia nieco vykona a na konci vrati nejaky vysledok, zadefinujeme typ
 ```py
@@ -46,7 +47,9 @@ def SpocitajDveCisla(prveCislo:int, druheCislo: int)-> int:
 sucet = SpocitajDveCisla(1, 10)
 print(sucet)
 ```
-> 11
+```
+11
+```
 
 ### Priklad, chceme zistit ci oba retazce maju dlzku aspon 10
 ```py
