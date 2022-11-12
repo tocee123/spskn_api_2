@@ -1,3 +1,4 @@
+
 # Funkcie
 Funkcia, alebo podprogram je blok kodu, ktory sa vykona po zavolani. Funkciu najprv treba zadefinovat pomocou `def` dat jej nazov, vstupne parametre, zadefinovat vystupny typ a dvojbodka, po nej v novom riadku uz mozeme pisat blok kodu patriaci funkcii
 S tymito podprogramami vieme rozdelit zodpovednosti celkoveho programu.
@@ -79,6 +80,65 @@ else:
 > Zadaj prvy retazec: 12344334324 
 Zadaj prvy retazec: 23e42309asflij
 Ano, oba retazce maju viac ako 10 znakov
+
+### Priklad, zistit o cisle, ci je zaporne, kladne alebo 0
+Mozeme dat rozhodnutie priamo do `for` cykla
+```py
+#1. cyklus
+for i in range(-2, 3):
+    if i == 0:
+        print("Cislo je 0")
+    elif i < 0:
+        print(f"Cislo {i} je zaporne")
+    print(f"Cislo {i} je kladne")
+
+print("nejaky dalsi kus kodu")
+print("este sa tu udeje nieco ine")
+
+#2. cyklus
+for i in range(-4, 1):
+    if i == 0:
+        print("Cislo je 0")
+    elif i < 0:
+        print(f"Cislo {i} je zaporne")
+    print(f"Cislo {i} je kladne")
+```
+alebo tie casti, ktore sa opakuju dame do funkcie (podprogramu)
+```py
+def VratParametreCisla(cislo:int)->str:
+    if cislo == 0:
+        return "Cislo je 0"
+    elif cislo < 0:
+        return f"Cislo {cislo} je zaporne"
+    return f"Cislo {cislo} je kladne"
+
+#1. cyklus
+for i in range(-2, 3):
+    print(VratParametreCisla(i))
+
+print("nejaky dalsi kus kodu")
+print("este sa tu udeje nieco ine")
+
+#2. cyklus
+for i in range(-4, 1):
+    print(VratParametreCisla(i))
+```
+>Cislo -2 je zaporne
+Cislo -1 je zaporne
+Cislo je 0
+Cislo 1 je kladne
+Cislo 2 je kladne
+nejaky dalsi kus kodu
+este sa tu udeje nieco ine
+Cislo -4 je zaporne
+Cislo -3 je zaporne
+Cislo -2 je zaporne
+Cislo -1 je zaporne
+Cislo je 0
+
+
+
+<!--
 ### Priklad, rozhodnime sa, aku poziciu ma zamestnanec na zaklade mzdy
 ```py
 from random import randint
@@ -118,5 +178,6 @@ platZamestnanca = randint(1000,10000)
 
 print(f"Zamestnanec, ktory zaraba {platZamestnanca} EUR ma poziciu {VratPoziciuNaZakladePlatu(platZamestnanca)}")
 ```
+-->
 Rozmýšľaš, prečo občas voláme funkcie pomocou `.` na konci reťazca (napr. `"Ola".upper()`) a inokedy najprv zavoláme funkciu a reťazec dáme do zátvoriek? Ide o to, že v niektorých prípadoch funkcie patria k **objektom**, ako napríklad `upper()`, čo je funkcia, ktorá môže byť vykonaná len na **reťazcoch**.  Inokedy funkcie nepatria k žiadnemu konkrétnemu objektu a môžu byť použité na rôzne typy objektov, ako je to v prípade `print()`. Preto posielame reťazec `"Ola"` ako parameter funkcii `print`.
 Viac si o tom mozete precitat [tu](https://input.sk/python2017/05.html)
