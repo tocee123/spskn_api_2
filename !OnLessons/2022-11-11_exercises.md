@@ -1,5 +1,5 @@
 # Priklady
-## Premen na int na string
+## Premen int na string
 ```py
 def  PremenIntNaString(i:int)->str:
 	return  str(i)
