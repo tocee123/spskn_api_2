@@ -70,7 +70,7 @@ This program will write your chosen integer as:
 2 decimal product
 3 binary and decimal product
 What do you choose? 1
-Enter your number: 121
+Enter your number: 123
 
 
 Binary product of 123:
@@ -89,7 +89,7 @@ This program will write your chosen integer as:
 2 decimal product
 3 binary and decimal product
 What do you choose? 2
-Enter your number: 121
+Enter your number: 123
 
 
 Decimal product of 123:
