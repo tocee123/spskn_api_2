@@ -1,10 +1,10 @@
 # Domáca úloha
-Napíšte program, ktorý si od uživateľa vypýta, ako má zobraziť zadanú hodnotu:
-1. binárne rozloženú
-1. desatinne rozloženú
-1. binárne aj desatinne rozloženú
+Napíšte program, ktorý si od uživateľa vypýta spôsob a číslo, ako ho máte zobraziť:
+1. binárne rozložené
+1. desatinne rozložené
+1. binárne aj desatinne rozložené
 
-Potom si vypýta číslo, ak hodnota možnosti výpisu bola korektná a zobrazí hodnotu. V príkladoch máte znázornené, ako by to malo vyzerať
+V príkladoch máte znázornené, ako by to malo vyzerať
 ## Pomôcky
 - `%` modulo
 - `//` celočíselné delenie
@@ -20,12 +20,12 @@ Potom si vypýta číslo, ak hodnota možnosti výpisu bola korektná a zobrazí
 - 1 funkciu, ktorá vám len pomôže pri spúšťaní
 
 # Házi feladat
-Írjatok egy programot, amelyik a felhasználótól bekér egy értéket, ami alapján eldönti, milyen szorzatokra bontsa a bekért számot:
-1. bináris
-1. tizedes
-1. bináris és tizedes
+Írjatok egy programot, amelyik a felhasználótól bekéri a módszert és egy számot, amelyet a következőképpen jeleníttek meg:
+1. binárisan
+1. tizedes bontásban
+1. binárisan és tizedes bontásban
 
-Ezek után bekéri a számot, amelyiket szorzatokra bont, ha a megfelelő opciót választotta. Az példák bekezdésben láthatjátok, hogyan is nézzen ki a kimenet.
+A példák bekezdésben láthatjátok, hogyan is nézzen ki a kimenet.
 ## Segítség
 - `%` modulo
 - `//` egész számos osztás
