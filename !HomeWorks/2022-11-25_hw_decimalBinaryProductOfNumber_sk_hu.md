@@ -71,8 +71,11 @@ This program will write your chosen integer as:
 3 binary and decimal product
 What do you choose? 1
 Enter your number: 121
+
+
+Binary product of 123:
 1 x 1
-0 x 2
+1 x 2
 0 x 4
 1 x 8
 1 x 16
@@ -87,7 +90,10 @@ This program will write your chosen integer as:
 3 binary and decimal product
 What do you choose? 2
 Enter your number: 121
-1 x 1
+
+
+Decimal product of 123:
+3 x 1
 2 x 10
 1 x 100
 ```
@@ -98,9 +104,12 @@ This program will write your chosen integer as:
 2 decimal product
 3 binary and decimal product
 What do you choose? 3
-Enter your number: 121
+Enter your number: 123
+
+
+Binary product of 123:
 1 x 1
-0 x 2
+1 x 2
 0 x 4
 1 x 8
 1 x 16
@@ -108,7 +117,8 @@ Enter your number: 121
 1 x 64
 
 
-1 x 1
+Decimal product of 123:
+3 x 1
 2 x 10
 1 x 100
 ```
