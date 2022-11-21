@@ -36,6 +36,7 @@ V príkladoch máte znázornené, ako by to malo vyzerať
 - `%` modulo
 - `//` celočíselné delenie
 - `while`
+- `a**b` zaklad `a` na exponent `b` 
 
 ### Postup pri zisťovaní rozloženia podľa deliteľa
 1. kým je číslo vačšie ako `0` opakuj
@@ -84,6 +85,7 @@ A példák bekezdésben láthatjátok, hogyan is nézzen ki a kimenet.
 - `%` modulo
 - `//` egész számos osztás
 - `while`
+- `a**b` az `a`t a `b`re emeljuk 
 
 ### Lépések a szorzatok felbontására
 1. amíg a szám nagyobb, mint `0` ismételd
