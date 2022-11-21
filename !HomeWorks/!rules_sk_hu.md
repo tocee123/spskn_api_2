@@ -8,11 +8,11 @@ Na každý týždeň vám pripravím domácu úlohu, ktorú mi odovzdáte cez _e
 2. Ak vôbec neodovzdáte, bude vám tam svietiť `m` alebo `a`, bude to na vás, aby ste si to opravili. 
 3. Tým, že ku mne prichádzajú úlohy od vás, tak ja vidím a viem, ktorá úloha je skopírovaná. Pri takýchto prípadoch sa rozhodneme spoločne, ako to bude so známkami.
 4. Chcem vám ukázať cestu, viem vás tam zobrať, ale vydať sa na ňu musíte sami. 
-5. Pýtajte sa, celá trieda na discorde, tam je priestor na diskusiu
+5. Pýtajte sa, celá trieda je na discorde, tam je priestor na diskusiu
 6. Ak niečomu nerozumiete, takisto sa pýtajte
 7. Ak vám dám niečo na prepísanie, je to preto, 
-	1. máte tam chybu, poniektorým sa to podarilo s kopírovaním
-	2. lebo viem, že to viete urobiť aj lepšie a keď vy prídete na riešenie sami, lepšie sa vám to zafixuje
+	1. lebo tam máte chybu, poniektorým sa to podarilo s kopírovaním
+	2. lebo viem, že to viete urobiť aj lepšie a keď vy prídete na riešenie sami, lepšie sa vám to zafixuje v hlave
 
 # Házi feladatok
 Minden hétre készítek nektek házi feladatot, amit az _eduPage_-n keresztül adtok le, ahogy azt már megszoktátok. Kisebb súlyozással lesznek értékelve (0,5x vagy 0,25x), mint az írásbelik, azért, hogy legyen lehetőségetek:
