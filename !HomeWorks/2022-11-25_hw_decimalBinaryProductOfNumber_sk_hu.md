@@ -7,8 +7,19 @@ Napíšte program, ktorý si od uživateľa vypýta spôsob a číslo, ako ho m�
 V príkladoch máte znázornené, ako by to malo vyzerať
 
 ## Známkovanie
-<ol reversed>
-  <li>ak neodovzdáte, alebo viacerí budete mať to isté</li>
+<ol>
+<li> Používate správne pomenované funkcie, vraciate korektné hodnoty, používate formátovanie
+</li>
+<li> Užívateľ si vie vybrať možnosti, program vypíše rozloženie čísla, bez funkcií
+</li>
+  <li>
+  <ul>
+    <li>vypíšete správne, ale len jedno rozloženie čísla
+    <li>menšie chyby v kóde</li>
+    <li>chýbajú funkcie</li>
+    </li>
+    </ul>
+</li>
   <li>
     <ul>
     <li>program vypíše niečo podobné, ale chybné rozloženie
@@ -17,17 +28,8 @@ V príkladoch máte znázornené, ako by to malo vyzerať
     </li>
     </ul>
   </li>
-  <li>
-  <ul>
-    <li>vypíšete správne, ale len jedno rozloženie čísla
-    <li>menšie chyby v kóde</li>
-    <li>chýbajú funkcie</li>
-    </li>
-    </ul>
-  <li> Užívateľ si vie vybrať možnosti, program vypíše rozloženie čísla, bez funkcií
-  </li>
-  <li> Používate správne pomenované funkcie, vraciate korektné hodnoty, používate formátovanie
-  </li>
+  
+  <li>ak neodovzdáte, alebo viacerí budete mať to isté</li>
 </ol>
 
 ## Pomôcky
@@ -52,8 +54,19 @@ V príkladoch máte znázornené, ako by to malo vyzerať
 
 A példák bekezdésben láthatjátok, hogyan is nézzen ki a kimenet.
 ## Jegyek
-<ol reversed>
-  <li>ha nem adjátok le, vagy többen ugyanazt adjátok le</li>
+<ol>
+ <li> A felhasználó a lehetőségek közül választhat, a program kiírja helyesen a bontást, függvényeket használtok
+ </li>
+ <li>A felhasználó a lehetőségek közül választhat, a program kiírja helyesen a bontást, viszont nem használtok függvényeket
+ </li>
+ <li>
+ <ul>
+    <li>helyesen kiírjátok a szám bontását, de csak az egyiket használjátok
+    <li>apróbb hibák a kódban</li>
+    <li>nem használtok függvényeket</li>
+    </li>
+ </ul>
+ </li>
   <li>
     <ul>
     <li>program valami hasonlót ír ki, de hibás a bontás
@@ -62,17 +75,9 @@ A példák bekezdésben láthatjátok, hogyan is nézzen ki a kimenet.
     </li>
     </ul>
   </li>
-  <li>
-  <ul>
-    <li>helyesen kiírjátok a szám bontását, de csak az egyiket használjátok
-    <li>apróbb hibák a kódban</li>
-    <li>nem használtok függvényeket</li>
-    </li>
-    </ul>
-  <li>A felhasználó a lehetőségek közül választhat, a program kiírja helyesen a bontást, viszont nem használtok függvényeket
-  </li>
-  <li> A felhasználó a lehetőségek közül választhat, a program kiírja helyesen a bontást, függvényeket használtok
-  </li>
+
+  <li>ha nem adjátok le, vagy többen ugyanazt adjátok le</li> 
+ 
 </ol>
 
 ## Segítség
