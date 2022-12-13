@@ -35,7 +35,7 @@ Takýto príklad ste už mali, teraz využite zoznamy: kým užívateľ nezadá 
 - `//` celočíselné delenie
 - `while`
 - `[]` inicializácia zoznamu, listu
-- `append, sum, len` práca s funkciami
+- `append, sum, len` práca so zoznamami
 # Házi feladat
 Ez a házi feladat a listákkal (list), és a velük való műveletekkel foglalkozik. írjatok programot, amelyik a felhasználótól bekéri, milyen műveletet hajtson végre: 
 
