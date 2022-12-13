@@ -1,7 +1,7 @@
 # Domáca úloha
 Domáca úloha bude zameraná na zoznamy (list) a prácou s nimi. Za úlohu budete mať napísať program, ktorý si od užívateľa vypýta možnosť úlohy:
 
-1. Práca s pročíslami
+1. Práca s prvočíslami
 1. Práca s načítavaním čísel
 
 > Užívateľ musí vybrať správnu hodnotu. Ak užívateľ zadal niečo mimo 1 a 2, tak si vypýtajte od neho hodnotu úlohy (1 alebo 2) znovu! (`while`)
