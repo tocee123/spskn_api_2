@@ -15,7 +15,7 @@ not prime numbers:  [4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, 21, 22, 24, 25, 26,
 ```
 >[2, 3, 5, 7, 11] -> stačí do printu dať len zoznam, hranaté zátvorky a hodnoty v zozname Python pridá sám
 ## Práca s načítavaním čísel
-Takýto príklad ste už mali, teraz využite zoznamy: kým užívateľ nezadá 0, budete načítavať celé čísla (`float`) a pridávať do zoznamu. Keď užívateľ ukončí beh, vypíšete: počet, súčet a primer načítaných hodnôt
+Takýto príklad ste už mali, teraz využite zoznamy: kým užívateľ nezadá 0, budete načítavať prirodzené čísla (`float`) a pridávať do zoznamu. Keď užívateľ ukončí beh, vypíšete: počet, súčet a primer načítaných hodnôt
 
 ## Známkovanie
 <ol>
@@ -53,7 +53,7 @@ not prime numbers:  [4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, 21, 22, 24, 25, 26,
 ```
 >[2, 3, 5, 7, 11] -> elég, ha a listát íratjátok ki, a szögletes zárójeleket és az értékekt a Python maga írja oda
 ## A beolvasott számokkal való összesített műveletek
-Ilyen programot már egyszer csináltatok, most azzal a különbséggel, hogy listát alkalmaztok a számok tárolására: amíg a felhasználó nem ír be 0-t, addig beolvasod az egész egész számot (`float`), és hozzáadod a listához. Ha a felhasználó befejezi a program futtatását, utána kiírod a beolvasott számok: számát, összegét és átlagát. 
+Ilyen programot már egyszer csináltatok, most azzal a különbséggel, hogy listát alkalmaztok a számok tárolására: amíg a felhasználó nem ír be 0-t, addig beolvasod az egész természetes számot (`float`), és hozzáadod a listához. Ha a felhasználó befejezi a program futtatását, utána kiírod a beolvasott számok: számát, összegét és átlagát. 
 
 ## Osztályzás
 <ol>
