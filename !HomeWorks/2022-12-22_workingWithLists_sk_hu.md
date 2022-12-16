@@ -4,7 +4,7 @@ Domáca úloha bude zameraná na zoznamy (list) a prácou s nimi. Za úlohu bude
 1. Práca s prvočíslami
 1. Práca s načítavaním čísel
 
-> Užívateľ musí vybrať správnu hodnotu. Ak užívateľ zadal niečo mimo 1 a 2, tak si vypýtajte od neho hodnotu úlohy (1 alebo 2) znovu! (`while`)
+> Užívateľ musí vybrať správnu hodnotu. Ak užívateľ zadal niečo mimo 1 a 2, tak si vypýtate od neho hodnotu úlohy (1 alebo 2) znovu! (`while`)
 
 ## Práca s prvočíslami
 Vytvorte 2 zoznamy pre prvočísla a neprvočísla. Program si vypýta hornú hranicu intervalu a iteráciou od 2 po vypýtané číslo sa rozhodne o čísle, či je prvočíslo a do ktorého zoznamu ho pridá (`append`). Na konci vypíše hlášku: 
