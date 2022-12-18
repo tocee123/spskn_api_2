@@ -36,7 +36,7 @@ Takýto príklad ste už mali, teraz využite zoznamy: kým užívateľ nezadá 
 - `while`
 - `[]` inicializácia zoznamu, listu
 - `append, sum, len` práca so zoznamami
-## Pre 3
+## Pre 3ku
 Staci ak urobite jednu cast pomocou zoznamov (bud vypisete prvocisla, alebo nacitate cisla a vypisete ich sucet, pocet, priemer)
 
 # Házi feladat
