@@ -36,6 +36,9 @@ Takýto príklad ste už mali, teraz využite zoznamy: kým užívateľ nezadá 
 - `while`
 - `[]` inicializácia zoznamu, listu
 - `append, sum, len` práca so zoznamami
+## Pre 3
+Staci ak urobite jednu cast pomocou zoznamov (bud vypisete prvocisla, alebo nacitate cisla a vypisete ich sucet, pocet, priemer)
+
 # Házi feladat
 Ez a házi feladat a listákkal (list), és a velük való műveletekkel foglalkozik. írjatok programot, amelyik a felhasználótól bekéri, milyen műveletet hajtson végre: 
 
@@ -74,7 +77,8 @@ Ilyen programot már egyszer csináltatok, most azzal a különbséggel, hogy li
 - `while`
 - `[]` a lista létrehozása, inicializálása
 - `append, sum, len` műveletek listákkal
-
+## 3asert
+Eleg, ha a feladat egyik reszet oldjatok meg listakkal (vagy a primszamokat gyujtitek ossze a felso hatarig es irjatok ki, vagy pedig a szamokat olvassatok be kiirjatok az darabszamot, osszeget es atlagot)
 # Function example
 ```py
 def IsPrime(number:int)->bool:
