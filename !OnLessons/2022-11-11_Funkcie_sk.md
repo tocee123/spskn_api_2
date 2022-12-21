@@ -2,6 +2,7 @@
 # Funkcie
 Funkcia, alebo podprogram je blok kodu, ktory sa vykona po zavolani. Funkciu najprv treba zadefinovat pomocou `def` dat jej nazov, vstupne parametre, zadefinovat vystupny typ a dvojbodka, po nej v novom riadku uz mozeme pisat blok kodu patriaci funkcii
 S tymito podprogramami vieme rozdelit zodpovednosti celkoveho programu.
+Este najdete rozsiahlejsie vysvetlenie (tu)[https://input.sk/python2016/05.html]
 
 ## Parametre funkcie
 
