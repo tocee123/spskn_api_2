@@ -14,6 +14,7 @@ Napiste program, ktory vypise na obrozovku pocet, priemer a sumu prvkov zoznamu 
 Napiste program, ktory kazde druhe slovo napise s velkymi pismenami.
 ## Priklad
 **Vstup**: Karkulka isla k babke po lesnej ceste.
+
 **Vystup**: Karkulka ISLA k BABKE po LESNEJ ceste.
 
 # Feladat 1
@@ -32,5 +33,6 @@ Irjatok programot, amelyik a kepernyore kiirja egy listaban (`list`) talalhato s
 Irjatok egy programot, amelyik beker egy mondatot a felhasznalotol, es minden masokdik szot nagy betuvel ir ki.
 ## Pelda
 **Bemenet**: Piroska az erdei uton indult el a nagymamajahoz.
+
 **kimenet**: Piroska AZ erdei UTON indult EL a NAGYMAMAJAHOZ.
 
