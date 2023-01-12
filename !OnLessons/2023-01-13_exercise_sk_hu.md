@@ -10,6 +10,7 @@ Napiste program, ktory vypise na obrozovku pocet, priemer a sumu prvkov zoznamu 
 - pomocou `for`/`while` cyklu naplnte zoznam nahodnymi cislami (nahodne cislo nech je od -100 do 100)
 - extra uloha: vypiste aj poslednych 10 hodnot
 > Zadefinujte si 2 funkcie: jednu na generovanie zoznamu a jednu na zobrazenie hodnot
+
 `def CreateRandomList(listLength:int)->list[int]:` `PrintValues(myList:list[int])->None:`
 
 # Zadanie 3
