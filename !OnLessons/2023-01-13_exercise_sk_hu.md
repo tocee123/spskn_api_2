@@ -10,6 +10,8 @@ Napiste program, ktory vypise na obrozovku pocet, priemer a sumu prvkov zoznamu 
 - pomocou `for`/`while` cyklu naplnte zoznam nahodnymi cislami (nahodne cislo nech je od -100 do 100)
 - extra uloha: vypiste aj poslednych 10 hodnot
 > Zadefinujte si 2 funkcie: jednu na generovanie zoznamu a jednu na zobrazenie hodnot
+### Pomoc
+`def CreateRandomList(listLength:int)->list[int]:` `PrintValues(myList:list[int])->None:`
 
 # Zadanie 3
 Napiste program, ktory kazde druhe slovo napise s velkymi pismenami.
@@ -30,6 +32,8 @@ Irjatok programot, amelyik a kepernyore kiirja egy listaban (`list`) talalhato s
 - `for`/`while` ciklus hasznalataval toltsetek meg a listat veletlenszeru szamokkal (veletlenszeruen generaljatok ki szamot -100 es 100 kozott)
 - extra feladat: irjatok ki az utolso 10 szamjegyet
 > Definialjatok 2 fuggvenyet: egyet a lista generalasara egyet meg az ertekek kiirasara
+### Segitseg
+`def CreateRandomList(listLength:int)->list[int]:` `PrintValues(myList:list[int])->None:`
 
 # Feladat 3
 Irjatok egy programot, amelyik beker egy mondatot a felhasznalotol, es minden masokdik szot nagy betuvel ir ki.
