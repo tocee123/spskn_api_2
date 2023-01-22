@@ -7,7 +7,7 @@ Nasledujuca domaca uloha bude zamerana na triedy, instancie, metody, konstruktor
     - inicializaciu/konstruktor `def __init__(self, meno:str, vek:int) -> None:`
     - pozdrav `def Pozdrav(self)->None:`, ktory vypise na obrazovku nasledujucu hlasku (ked meno je _Anton_ a vek _19_): `Ahoj, volam sa Anton a mam 19 rokov`
 
-Urobte 2 instancie triedy a zavolajte na nich metodu `Pozdrav`
+Urobte 2 instancie triedy a zavolajte nad nimi metodu `Pozdrav`
 
 > anton = Person("Anton", 19)
 
