@@ -225,7 +225,7 @@ print(f"{alice}\n{bob}")
 alice.WriteOutName()
 bob.WriteOutName()
 ```
-### Init
+### Init- Konstruktor
 Doteraz sme pouzivali na vytvaranie instancie `Student` triedy metodu `CreateStudent`, ktorej vstupnymi parametrami boli `name` a `surname`. Ak chceme, aby instanciu `Student` triedy sme robili cez funkciu definovanu v triede samej, pouzimeje funkciu na inicializovanie `__init__(self...)`
 ```py
 class Student:
