@@ -128,7 +128,14 @@ class Student(Person):
 p = Person("name", 123)
 p.SayHi()
 
-s = Student("Aladar", 20, 2015)
-#Zavola sa SayHi z Person, ale ToString metoda __str__(self) uz zo Studenta
-s.SayHi()
+s1 = Student("Aladar", 20, 2015)
+s2 = Student("Bela", 19, 2012)
+s3 = Student("Bela", 19, 2012)
+students = [s1, s2, s3]
+#alebo
+#students = [tudent("Aladar", 20, 2015), Student("Bela", 19, 2012), Student("Bela", 19, 2012)]
+
+for student in students:
+  #Zavola sa SayHi z Person, ale ToString metoda __str__(self) uz zo Studenta
+  student.SayHi()
 ```
