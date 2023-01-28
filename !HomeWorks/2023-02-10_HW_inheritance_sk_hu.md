@@ -2,7 +2,7 @@
 Teraz vyskusate dedenie tried. Nasledujuca uloha vyzera byt velmi dlha, ale je to na techniku. Budete vela kopirovat, kedze triedy az tak velmi sa neodlisuju od seba. Chodte bod po bode.
 
 Zadefinujete 4 triedy nasledovne:
-- triedu `Zviera`, super class, bude mat atribut `Meno:int` a `__init__` metodu, cez ktoru naplnite `Meno`
+- triedu `Zviera`, super class, bude mat atribut `Meno:str` a `__init__` metodu, cez ktoru naplnite `Meno`
 - triedu `Macka`, bude dedit od `Zviera` a rozsirite ju o atribut `PocetChytenychMysi:int` a `__init__` metodu, cez ktoru naplnite `Meno` a `PocetChytenychMysi`. Bude mat hlasku: **"Volam sa {Meno} a som macka. Chytila som {PocetChytenychMysi} mysi"**
 - triedu `Pes`, bude dedit od `Zviera` a rozsirite ju o atribut `PocetUhryznutychPostarov:int` a `__init__` metodu, cez ktoru naplnite `Meno` a `PocetUhryznutychPostarov`. Bude mat hlasku: **"Volam sa {Meno} a som pes. Uhryzol som {PocetUhryznutychPostarov} postarov"**
 - triedu `Mys`, bude dedit od `Zviera` a rozsirite ju o atribut `VahaZjedenehoSyra:float` a `__init__` metodu, cez ktoru naplnite `Meno` a `VahaZjedenehoSyra`. Bude mat hlasku: **"Volam sa {Meno} a som mys. Za moj zivot som zjedol {VahaZjedenehoSyra}kg syra"**
@@ -66,7 +66,7 @@ def __init__(self, name: str, pridanyAtribut:int) -> None:
 Most kiprobaljatok az osztalyokban az oroklest. A kovetkezo feladat nagyon igenyesnek, es hosszunak tunhet, de most a technikat sajatitjuk el. Sok mindent masolni fogtok, hiszen eppen csak egy-ket dologban ternek el az osztalyok. Lepesrol lepesre haladjatok
 
 Definialjatok 4 osztalyt:
-- `Allat` felnott osztalyt, super class, amelyiktol orokol majd a tobbi, `Nev:int` attributummal rendelkezik es `__init__` fuggvennyel, melyen kereszul erteket adtok a `Nev` attributumnak
+- `Allat` felnott osztalyt, super class, amelyiktol orokol majd a tobbi, `Nev:str` attributummal rendelkezik es `__init__` fuggvennyel, melyen kereszul erteket adtok a `Nev` attributumnak
 - `Macska` osztalyt, amelyik az `Allat` osztalytol fog orokolni, es terjesszetek ki (adjatok hozza) egy attributumot `MegfogottEgerekSzama:int`, es `__init__` fuggvenyt, amelyen keresztul erteket adtok a `Nev` es a  `MegfogottEgerekSzama` attributumoknak. Bemutatkozasa a kovetkezo: **"A nevem {Nev} es egy macska vagyok. {MegfogottEgerekSzama} egeret fogtam mar"**
 - `Kutya` osztalyt, amelyik az `Allat` osztalytol fog orokolni, es terjesszetek ki (adjatok hozza) egy attributumot `MegharapottPostasokoSzama:int`, es `__init__` fuggvenyt, amelyen keresztul erteket adtok a `Nev` es a  `MegharapottPostasokoSzama` attributumoknak. Bemutatkozasa a kovetkezo: **"A nevem {Nev} es egy kutya vagyok. {MegharapottPostasokoSzama} postast haraptam mar meg"**
 - `Eger` osztalyt, amelyik az `Allat` osztalytol fog orokolni, es terjesszetek ki (adjatok hozza) egy attributumot `MegvettSajtSulya:float`, es `__init__` fuggvenyt, amelyen keresztul erteket adtok a `Nev` es a  `MegvettSajtSulya` attributumoknak. Bemutatkozasa a kovetkezo: **"A nevem {Nev} es egy eger vagyok. Eletemben mar megettem {MegvettSajtSulya}kg sajtot"**
