@@ -50,11 +50,17 @@ print(person.PozdravSa())
 ## Pomocky
 - priklad na funkciu `def__str__(self)->str:` najdete tu [link](https://github.com/tocee123/spskn_api_2/blob/main/!OnLessons/2023-01-27_oop_inheritance_sk.md#priklad-so-studentami)
 - na `__init__` v podtriedach (`Macka`, `Pes`, `Mys`) pouzijete nasledovny postup, kde `PridanyAtribut` je `PocetChytenychMysi`, `PocetUhryznutychPostarov` a pre mysi `VahaZjedenehoSyra`
-    ```py
-    def __init__(self, name: str, pridanyAtribut:int) -> None:
-        super().__init__(name)  
-        self.PridanyAtribut = pridanyAtribut
-    ```
+```py
+def __init__(self, name: str, pridanyAtribut:int) -> None:
+    super().__init__(name)  
+    self.PridanyAtribut = pridanyAtribut
+```
+## Znamkovanie
+1. Odovzdate do terminu a mate vsetky 4 triedy spravne nastavene, vytvorili ste zoznam zvierat, inicializovali ste aspon 3, dali ste ich do zoznamu a vypisali ich hlasku
+1. Odovzdate po terminte a mate vsetky 4 triedy spravne nastavene, vytvorili ste zoznam zvierat, inicializovali ste aspon 3, dali ste ich do zoznamu a vypisali ich hlasku
+1. Zadefinujete aspon jednu dedicnost, vytvorite aspon jednu instanciu dedenej/podtriedy, vypisete hlasku
+1. individualne
+1. Ked vobec nic neodovzdate
 
 # Feladat az oroklesre
 Most kiprobaljatok az osztalyokban az oroklest. A kovetkezo feladat nagyon igenyesnek, es hosszunak tunhet, de most a technikat sajatitjuk el. Sok mindent masolni fogtok, hiszen eppen csak egy-ket dologban ternek el az osztalyok. Lepesrol lepesre haladjatok
@@ -108,11 +114,18 @@ print(person.MutatkozzBe())
 ## Segitseg
 - A `def__str__(self)->str:` itt talaltok peldat [link](https://github.com/tocee123/spskn_api_2/blob/main/!OnLessons/2023-01-27_oop_inheritance_sk.md#priklad-so-studentami)
 - Az alosztalyok  (`Macska`, `Kutya`, `Eger`) `__init__` fuggvenyeben  hasznaljatok a kovetkezo lepeseket `HozzaadottAttributum` a kovetkezo az egyes osztalyokban: `MegfogottEgerekSzama`, `MegharapottPostasokSzama`, es `MegevettSajtSulya`
-    ```py
-    def __init__(self, name: str, hozzaadottAttributum:int) -> None:
-        super().__init__(name)  
-        self.HozzaadottAttributum = hozzaadottAttributum
-    ```
+```py
+def __init__(self, name: str, hozzaadottAttributum:int) -> None:
+    super().__init__(name)  
+    self.HozzaadottAttributum = hozzaadottAttributum
+```
+
+## Jegyek
+1. Idoben leadjatok, es mind a 4 osztaly helyes definicioval rendelkezik, keszitettetek allatok listat, amibe inicialtatok legalabb 3 allatot, es kiirtatok a bemutatkozasukat
+1. Terminus utan adjatok le, es mind a 4 osztaly helyes definicioval rendelkezik, keszitettetek allatok listat, amibe inicialtatok legalabb 3 allatot, es kiirtatok a bemutatkozasukat
+1. Legalabb egy oroklest definialtok, legalabb egy instaciot letrehoztok az alosztalybol, es kiirjatok a bemutatkozasat
+1. Individualisan
+1. Ha semmit sem adtok le
 
 # Example 
 ```
