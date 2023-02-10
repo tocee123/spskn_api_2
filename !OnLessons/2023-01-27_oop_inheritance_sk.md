@@ -124,18 +124,20 @@ class Student(Person):
     
     def __str__(self):
         return f"Hi, i'm {self.Name} and i am {self.Age} years old and i graduated in {self.YearOfGraduation}"
-        
-p = Person("name", 123)
-p.SayHi()
 
-s1 = Student("Aladar", 20, 2015)
-s2 = Student("Bela", 19, 2012)
-s3 = Student("Bela", 19, 2012)
-students = [s1, s2, s3]
-#alebo
-#students = [tudent("Aladar", 20, 2015), Student("Bela", 19, 2012), Student("Bela", 19, 2012)]
+def Main()->None:
+  p = Person("name", 123)
+  p.SayHi()
 
-for student in students:
-  #Zavola sa SayHi z Person, ale ToString metoda __str__(self) uz zo Studenta
-  student.SayHi()
+  s1 = Student("Aladar", 20, 2015)
+  s2 = Student("Bela", 19, 2012)
+  s3 = Student("Bela", 19, 2012)
+  students = [s1, s2, s3]
+  #alebo
+  #students = [tudent("Aladar", 20, 2015), Student("Bela", 19, 2012), Student("Bela", 19, 2012)]
+
+  for student in students:
+    #Zavola sa SayHi z Person, ale ToString metoda __str__(self) uz zo Studenta
+    student.SayHi()
+Main()
 ```
