@@ -98,6 +98,11 @@ from random import randint, choice
 class Sex:
     Male = "male"
     Female = "female"
+    
+    #usage: Sex.GetRandomSex()
+    def GetRandomSex()->str:
+        return choice([Sex.Male, Sex.Female]) 
+    
 
 class Worker:
     Id:int
