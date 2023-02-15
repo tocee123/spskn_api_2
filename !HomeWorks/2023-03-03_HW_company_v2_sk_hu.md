@@ -47,7 +47,7 @@ Vašou úlohou bude vybudovať firmu dôrazom na triedy, triedne atribúty, funk
 A feladatotok egy cég létrehozása, most viszont a hangsúlyt az osztályokra, attribútumokra és függvényekre tesszük.
 ## `Alkalmazott` osztály 
 
-- következő attribútumokkal rendelkezik:
+- következő attribútumokkal:
     - `Id:int`
     - `Fizetes:int`
     - `Nem:str`
