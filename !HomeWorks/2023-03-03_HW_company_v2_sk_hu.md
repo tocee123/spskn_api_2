@@ -61,7 +61,7 @@ A feladatotok egy cég létrehozása, most viszont a hangsúlyt az osztályokra,
     - `def __str__(self) -> str:` vagy `def ToString(self) -> str:` a következő szövegkonstanst adja vissza: *Szia, az IDm {Id}, {Nem} vagyok, {Pozicio} pozicioban dolgozom, es {Fizetes} Eurt keresek*
 
 ## `Ceg` osztaly
-- következő attribútumokkal rendelkezik:
+- következő attribútumokkal:
     - `Nev:str`
     - `Alkalmazottak:list[Alkalmazott]`
     - `FerfiakAtlagfizetese:float`
