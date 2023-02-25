@@ -1,4 +1,5 @@
 # Domaca uloha Firma v2.0
+> Nazov suboru: `2F_priezvisko_meno_firma2.py`
 Vašou úlohou bude vybudovať firmu dôrazom na triedy, triedne atribúty, funkcie. 
 ## Trieda `Zamestnanec` 
 
@@ -44,6 +45,7 @@ Vašou úlohou bude vybudovať firmu dôrazom na triedy, triedne atribúty, funk
 1. Vôbec neodovzdáte, opisujete, nefunguje, ako má
 
 # Házi feladat Cég v2.0
+> Fajl neve: `2G_vezeteknev_keresztnev_ceg2.py`
 A feladatotok egy cég létrehozása, most viszont a hangsúlyt az osztályokra, attribútumokra és függvényekre tesszük.
 ## `Alkalmazott` osztály 
 
