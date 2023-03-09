@@ -44,7 +44,7 @@ Irjatok egy programot, amelyik a billentyuzetrol beolvas 2 egesz szamot kovetkez
 A program a kovetkezokeppen kezeli a hibakat:
 - ha a felhasznalo nem egesz szamot ad be ('apple', '123asd', '12.312'), a program nem fejezodik be, ujra bekeri a szamot a felhasznalotol
 - ha a felhasznalo negativ egesz szamot vagy nullat ad be (<= 0) -> a program 'dob' (`raise`) egy sajat magatok altal irt hibat, amelyik azt jelzi, hogy a beadott szam negativ vagy 0
-- ha a felhasznalo beadja a 2. szamot, es az 3szor kisebb, mint az elso szam -> a p program 'dob' (`raise`) egy sajat magatok altal irt hibat, ktora indikuje, amelyik azt jelzi, hogy a beadott szam kisebb, mint 3szor az elso
+- ha a felhasznalo beadja a 2. szamot, es az 3szor kisebb, mint az elso szam -> a p program 'dob' (`raise`) egy sajat magatok altal irt hibat, amelyik azt jelzi, hogy a beadott szam kisebb, mint 3szor az elso
 
 ## Program menete:
 - definialjatok legalabb 2 hibat (`class`, amelyik az `Exception` osztalytol orokol)
