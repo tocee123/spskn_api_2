@@ -36,6 +36,14 @@ finally:
 ```
 > `pass` je prikaz, ktory nic nerobi, ale pre prazdne funkcie, bloky je nevyhnutny, aby python vedel spracovat skript
 
+# Lahsia verzia za 3
+Napiste program, ktory:
+- nacita 2 cele cisla z klavesnice
+- vydeli ich a vypiste hodnotu na obrazovku `f"{prveCislo}/{druheCislo} = {prveCislo/druheCislo}"`
+- odchytitie 2 mozne chyby:
+    - `ValueError` chyba pri konvertovani nacitaneho textu `str` na `int`
+    - `ZeroDivisionError` chyba pri deleni s `0`
+
 # Feladat
 Irjatok egy programot, amelyik a billentyuzetrol beolvas 2 egesz szamot kovetkezokeppen: 
 - Mindket szam > 0
@@ -75,6 +83,13 @@ finally:
 ```
 > `pass` egy olyan parancs, ami nem csinal semmit, de a szintaxis miatt szukseges
 
+# Konnyebb verzio 3asert
+Irjatok egy programot, amelyik:
+- beolvas 2 egesz szamot a billentyuzetrol
+- elosszatok a szamokat, es kiirjatok a vegeredmenyt `f"{elsoSzam}/{masodikSzam} = {elsoSzam/masodikSzam}"`
+- kezeljetek a 2 lehetseges hibat:
+    - `ValueError` hiba, amelyik akkor keletkezi, mikor a beolvasott `str` tipust `int`re konvertaltok
+    - `ZeroDivisionError` hiba, mikor `0`-val osztotok
 
 # Example
 ```
