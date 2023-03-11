@@ -88,7 +88,7 @@ Irjatok egy programot, amelyik:
 - beolvas 2 egesz szamot a billentyuzetrol
 - elosszatok a szamokat, es kiirjatok a vegeredmenyt `f"{elsoSzam}/{masodikSzam} = {elsoSzam/masodikSzam}"`
 - kezeljetek a 2 lehetseges hibat:
-    - `ValueError` hiba, amelyik akkor keletkezi, mikor a beolvasott `str` tipust `int`re konvertaltok
+    - `ValueError` hiba, amelyik akkor keletkezi, mikor a beolvasott `str` tipust `int`re konvertaljatok
     - `ZeroDivisionError` hiba, mikor `0`-val osztotok
 
 # Example
