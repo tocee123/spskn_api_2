@@ -26,18 +26,14 @@ def GenerateRandomWord()->str:
     return ''.join([choice(string.ascii_lowercase) for _ in range(randint(4,15))])
 ```
 ## Read
+MODIFIER:
+- for writing `a` or `w`
+- for reading `r`
+
 ```py
 import os
 full_path = os.path.dirname(__file__)
-f = open(f"{full_path}\\test.txt", "r")
-f.close()
-```
-## Write
-```py
-import os
-full_path = os.path.dirname(__file__)
-#append
-f = open(f"{full_path}\\test.txt", "a")
+f = open(f"{full_path}\\test.txt", MODIFIER)
 f.write("hello World")
 f.close()
 ```
