@@ -14,7 +14,7 @@ Richard Vida | tbd |[link](https://trello.com/c/rg84t45J/10-richard-vida-projekt
 Simon Zaduban | tbd |[link](https://trello.com/c/5quZ6R8q/11-simon-zaduban-projekt)
 Daniel Zahorec| tbd |[link](https://trello.com/c/1iwYMFe0/12-daniel-z%C3%A1horec-projekt)
 
-# Z coho mate na vyber:
+# Z čoho máte na výber:
 1. Elektrotechnické výpočty v grafickom rozhraní
 1. Matematické výpočty v grafickom rozhraní
 1. Tamagochi v grafickom rozhraní
