@@ -1,5 +1,6 @@
 # Uloha
 > Nazov suboru: `2F_priezvisko_meno.py`
+
 Napiste program, ktory nacita z klavesnice 2 kladne cele cisla nasledovne: 
 - Obe cisla musia byt > 0
 - Druhe nacitane cislo musi byt aspon 3krat vacsie ako prve
@@ -47,6 +48,7 @@ Napiste program, ktory:
 
 # Feladat
 > A fajl neve: `2G_vezeteknev_nev.py`
+
 Irjatok egy programot, amelyik a billentyuzetrol beolvas 2 egesz szamot kovetkezokeppen: 
 - Mindket szam > 0
 - A masodik beolvasott szam 3szor nagyobb, mint az elso
