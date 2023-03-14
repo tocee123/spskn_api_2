@@ -1,4 +1,12 @@
 # Try except
+
+[link](https://www.w3schools.com/python/python_try_except.asp)
+
+- `try` blok vam umozni spustit/otestovat kod, kde sa mozu vyskytnut chyby
+- `except` blok vam umozni poradit sa s vyskytnutou chybou
+- `else` blok nastane v tedy, ked ziadna chyba nenastala v `try` bloku
+- `finally` blok spusti kod bez ohladu na to, ci bola nastala chyba alebo nie
+- 
 Ked sa vyskytne chyba v aplikacii (konvertujeme slovo na int, pristupujeme k neexistujucemu klucu v slovniku), aplickacia hodi **exception** (chybu)
 
 ## Priklad
