@@ -40,3 +40,14 @@ Daniel Zahorec| tbd |[link](https://trello.com/c/1iwYMFe0/12-daniel-z%C3%A1horec
     - zmeniť skladový stav (výdaj, príjem)
     - vypísač skladový stav
     - mať na sklade aspoň 25 súčiastok
+1. Hra loto
+1. Zo zadaneho datumu zistit:
+    - nazov daneho mesiaca
+    - ktore rocne obdie prave prebieha
+    - kolko dni uz preslo od 1.1.
+    - kolko dni je do 31.12.
+    - ci dany rok je priestupovy
+1. Presypacie hodiny
+1. Praca s IP adresami
+    - zistit, ci dany text je IP cislo
+    - mask/gateway
