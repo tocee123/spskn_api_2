@@ -16,24 +16,22 @@ Tóth Márton| Stopperora | [link](https://trello.com/c/DfYEW5iv/12-t%C3%B3th-m%
 Varga Richárd | grafikus kalkulator, legkisebb közös többszörös, legnagyobb közös osztó meghatarozása, prímszámok szorzatára való bontás | [link](https://trello.com/c/EUm2F567/13-varga-rich%C3%A1rd-projekt)
 Vasi Adrián|telefonkonyv | [link](https://trello.com/c/Y4Ox1BrE/14-vasi-adri%C3%A1n-projekt)
 
-
 Amiből még lehet válogatni: 
 1. **Mondatelemző**: a beolvasott mondat betűinek elemzése, mondat szóközeinek és betűinek megszámolása a szavak száma. Határozza meg a mondat módját (kijelentő, kérőd, felszólító). Grafikus környezetben muködjön.
 1. **Alkatrész adatbázis** létrehozása. (megnevezés, darabszám, egységár). Implementálja a következő funkciókat:
-  - új alkatrészek felvétele
-  -alkatrészek kiíratása
-  -alkatrészek törlése
-  -alkatrész darabszámának módosítása
-  -raktárkészlet értékének kiíratása
-  -legalább 25db alkatrész, grafikus környezetben
+	- új alkatrészek felvétele
+	- alkatrészek kiíratása
+	- alkatrészek törlése
+	- alkatrész darabszámának módosítása
+	- raktárkészlet értékének kiíratása
+	- legalább 25db alkatrész, grafikus környezetben
 1. Lottozo program
 1. A begépelt dátumból a program írja ki a következőket: 
-  - az adott hónap nevét
-  - évszakot
-  - mennyi nap telt el január 1től
-  - mennyi van még hátra az évből december 31ig
-  - szökőév-e vagy sem. 
+	- az adott hónap nevét
+	- évszakot
+	- mennyi nap telt el január 1től
+	- mennyi van még hátra az évből december 31ig
+	- szökőév-e vagy sem. 
 1. Homokóra
 1. A begépelt, beírt szövegből meghatározza, hogy az adott szöveg IP cím-e:
-  - mask/gateway
-1. vagy valami egyebet kitalaltok
+	- mask/gateway
