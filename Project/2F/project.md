@@ -10,7 +10,7 @@ Tomas Spevar | Hra loto |[link](https://trello.com/c/cwSmSHEY/6-tom%C3%A1%C5%A1-
 Patrik Szabo | Praca s datumami |[link](https://trello.com/c/Jps15wFs/7-patrik-szabo-projekt)
 Robert Takacs | Skladová databáza súčiastok |[link](https://trello.com/c/8QevU1Zu/8-robert-tak%C3%A1cs-projekt)
 Attila Toth | Grafický kvízprogram (téma: **informatika**) |[link](https://trello.com/c/4cIPPreX/9-attila-t%C3%B3th-projekt)
-Richard Vida | resypacie hodiny |[link](https://trello.com/c/rg84t45J/10-richard-vida-projekt)
+Richard Vida | presypacie hodiny |[link](https://trello.com/c/rg84t45J/10-richard-vida-projekt)
 Simon Zaduban | tbd |[link](https://trello.com/c/5quZ6R8q/11-simon-zaduban-projekt)
 Daniel Zahorec| tbd |[link](https://trello.com/c/1iwYMFe0/12-daniel-z%C3%A1horec-projekt)
 
