@@ -5,7 +5,7 @@
 - ulozte ich do lubovolneho suboru (`text.txt`, `randomFile.txt`, atd...), definujte si vlastny oddelovac (medzera, `,`, `;`, novy riadok `\n`)
 - Nacitajte slova zo suboru a nasledne:
     - vypiste len tie, ktore su dlhsie ako 8 znakov
-    - vypiste vsetky slove v abecednom poradi (`sort`)
+    - vypiste vsetky slova v abecednom poradi (`sort`)
     - zistite priemernu dlzku slova (spocitajte dlzky slov a vydelte poctom slov)
 
 # Feladat
