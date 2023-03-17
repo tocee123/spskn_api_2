@@ -2,7 +2,7 @@
 Nev|Projekt|url
 -|-|-|
 Koczkás Levente | elektrotehikai szamitasok | [link](https://trello.com/c/orOpa2aU/1-koczk%C3%A1s-levente-projekt)
-Kovács Péter | **valaszt**  | [link](https://trello.com/c/gCX3LCX1/2-kov%C3%A1cs-p%C3%A9ter-projekt)
+Kovács Péter | Penzvalto, 10 penznem, napi kurzus apin keresztul  | [link](https://trello.com/c/gCX3LCX1/2-kov%C3%A1cs-p%C3%A9ter-projekt)
 Nyitrai László | Grafikus kvíz program, adatbázis legalább 5 fájl, fájlonként 10 kérdés, 5 választási lehetőség kérdésenként, téma: **elektrotechnika** | [link](https://trello.com/c/y3g48mQG/4-nyitrai-l%C3%A1szl%C3%B3-projekt)
 Nagy Viktor | Grafikus kvíz program, adatbázis legalább 5 fájl, fájlonként 10 kérdés, 5 választási lehetőség kérdésenként, téma: **informatika** | [link](https://trello.com/c/rXhyTqFg/3-nagy-viktor-projekt)
 Pálos Attila| matematikai számítások grafikus környezetben | [link](https://trello.com/c/yJgM9ClO/5-p%C3%A1los-attila-projekt)
@@ -35,3 +35,5 @@ Amiből még lehet válogatni:
 1. Homokóra
 1. A begépelt, beírt szövegből meghatározza, hogy az adott szöveg IP cím-e:
 	- mask/gateway
+	- IPv4, IPv6
+	- MAC
