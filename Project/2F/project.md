@@ -51,8 +51,8 @@ Daniel Zahorec| tbd |[link](https://trello.com/c/1iwYMFe0/12-daniel-z%C3%A1horec
 1. ~~Praca s IP adresami~~
     - zistiť, či zadaný text je IP číslo, ak áno, tak aká kategória (class)
     - pri použití masky, vypísať (subnet masking)
-        -adresu siete
-        -adresu počítača
+        - adresu siete
+        - adresu počítača
     -podporovať IPv4, IPv6
     - Extra úloha:
         - zistiť, či zadaná MAC adresa je korektna (mac address validation, použiť jeden typ zápisu)
