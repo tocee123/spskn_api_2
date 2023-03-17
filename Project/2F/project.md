@@ -17,7 +17,7 @@ Daniel Zahorec| tbd |[link](https://trello.com/c/1iwYMFe0/12-daniel-z%C3%A1horec
 # Z čoho máte na výber:
 1. Elektrotechnické výpočty v grafickom rozhraní
 1. Matematické výpočty v grafickom rozhraní
-1. Tamagochi v grafickom rozhraní
+1. -[Tamagochi v grafickom rozhraní]
 1. Stopky v grafickom rozhraní
 1. Grafický kalkulátor: najväčší spoločný deliteľ, najmenší spoločný násobok, rozloženie čísla na prvočísla
 1. Grafický kvízprogram (téma: **informatika**): databáza aspoň 5 súborov, aspoň 10 otázok v súbore, 5 možných odpovedí. Otázky a odpovede sú vypísané náhodne, na konci úkáže skóre
