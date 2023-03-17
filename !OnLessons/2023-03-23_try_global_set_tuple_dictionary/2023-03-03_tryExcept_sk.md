@@ -122,3 +122,19 @@ except LessThan20Exception as ex:
     print(ex.Message)
     #Value 10 is less than 20.
 ```
+
+## Definovanie a pouzitie vlastnej chyby v2
+V nasledujucom priklade si vytvorime vlastnu chybu `LessThan20Exception`, ktora dedi od `Exception` ~~a bude mat atribut/vlastnost `Message`~~ a v `except` bloku ju odchytime a vypiseme na obrazovku spravu
+```py
+class LessThan20Exception(Exception):
+    def __init__(self, value) -> None:
+        super().__init__(f"Value {value} is less than 20.")
+        
+x = 10
+try:
+   if (x<20):
+       raise LessThan20Exception(x)
+except LessThan20Exception as ex:
+    print(ex)
+    #Value 10 is less than 20.
+```
