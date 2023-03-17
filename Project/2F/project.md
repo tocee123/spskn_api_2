@@ -17,12 +17,12 @@ Daniel Zahorec| tbd |[link](https://trello.com/c/1iwYMFe0/12-daniel-z%C3%A1horec
 # Z čoho máte na výber:
 1. Elektrotechnické výpočty v grafickom rozhraní
 1. Matematické výpočty v grafickom rozhraní
-1. -[Tamagochi v grafickom rozhraní]
-1. Stopky v grafickom rozhraní
+1. ~~Tamagochi v grafickom rozhraní~~
+1. ~~Stopky v grafickom rozhraní~~
 1. Grafický kalkulátor: najväčší spoločný deliteľ, najmenší spoločný násobok, rozloženie čísla na prvočísla
-1. Grafický kvízprogram (téma: **informatika**): databáza aspoň 5 súborov, aspoň 10 otázok v súbore, 5 možných odpovedí. Otázky a odpovede sú vypísané náhodne, na konci úkáže skóre
+1. ~~Grafický kvízprogram (téma: **informatika**): databáza aspoň 5 súborov, aspoň 10 otázok v súbore, 5 možných odpovedí. Otázky a odpovede sú vypísané náhodne, na konci úkáže skóre~~
 1. Grafický kvízprogram (téma: **elektrotechnika**): databáza aspoň 5 súborov, aspoň 10 otázok v súbore, 5 možných odpovedí. Otázky a odpovede sú vypísané náhodne, na konci úkáže skóre
-1. Adresár (meno, priezvisko, telefónne číslo, adresa, email) aspoň 25 mien
+1. ~~Adresár (meno, priezvisko, telefónne číslo, adresa, email) aspoň 25 mien~~
     - použite slovník, 
     - pracujte so súbormi 
     - pridať nový kontakt
@@ -33,22 +33,22 @@ Daniel Zahorec| tbd |[link](https://trello.com/c/1iwYMFe0/12-daniel-z%C3%A1horec
 1. Analýza písmen, znakov, medzier, slov v zadanom texte v grafickom rozhraní. Vypíšte na obrazovku:
     - počet slov, medzier, počet jednotlivých písmen
     - aký typ vety (oznamovacia, opytovacia, rozkazovacie)
-1. Skladová databáza súčiastok (názov, kód, počet kusov, jednotková cena), grafické rozhranie
+1. ~~Skladová databáza súčiastok (názov, kód, počet kusov, jednotková cena), grafické rozhranie~~
     - pridať novú súčiastku
     - výpis súčiastkov
     - vymazať súčiastky
     - zmeniť skladový stav (výdaj, príjem)
     - vypísač skladový stav
     - mať na sklade aspoň 25 súčiastok
-1. Hra loto
-1. Zo zadaneho datumu zistit:
+1. ~~Hra loto~~
+1. ~~Zo zadaneho datumu zistit:~~
     - nazov daneho mesiaca
     - ktore rocne obdie prave prebieha
     - kolko dni uz preslo od 1.1.
     - kolko dni je do 31.12.
     - ci dany rok je priestupovy
-1. Presypacie hodiny
-1. Praca s IP adresami
+1. ~~Presypacie hodiny~~
+1. ~~Praca s IP adresami~~
     - zistit, ci dany text je IP cislo
     - mask/gateway
     - IPv4, IPv6
