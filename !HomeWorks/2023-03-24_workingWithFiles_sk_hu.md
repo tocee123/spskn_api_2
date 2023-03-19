@@ -26,6 +26,10 @@ def GenerateRandomWord()->str:
     from random import choice, randint
     import string
     return ''.join([choice(string.ascii_lowercase) for _ in range(randint(4,15))])
+def WriteRandomWordsToFile(filePath:str)->None:
+    pass
+def WriteOutStatisticsFromFile(filePath:str)->None:
+    pass
 ```
 ## Read
 MODIFIER:
