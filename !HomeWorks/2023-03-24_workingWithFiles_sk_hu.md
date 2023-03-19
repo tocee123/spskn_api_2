@@ -50,6 +50,12 @@ f.write("hello World")
 f.close()
 ```
 # Expected output
+
+## randomWords.txt content
+```
+sffejzjwptc,dumipesy,ilhvqntufv,jjfdlzfzcpon,vacpmwqnynnlufyojep,cdzfsiirg,ypvh,noyobnisskqvb,obqbrebemeab,siwclbvgpiwk,etpgryravlntrpj,wbzxypvfzjnimnnkpwco,liihce,sdwhinnahwkw,hyntyosvlbzm,rwiaiwrmgpwoqqughky,tuvpitym,qjhfgftwjrnjc,mnoxdwuesedfwdwblcf,ikqzpnrbd,iixgcsubove
+```
+Python program's output: 
 ```
 Words that are longer than 8 characters are: joospiwddsoymj, ohtpxqdas, rfaddickfmietlitu, qcibjhadidkr, vjfadkcakn, zfwudqgofjixgijhll
 Alphabetically sorted words: ['gxuwhty', 'joospiwddsoymj', 'ohtpxqdas', 'pefqlb', 'qcibjhadidkr', 'rfaddickfmietlitu', 'urfcfya', 'uvpxp', 'vjfadkcakn', 'zfwudqgofjixgijhll']
