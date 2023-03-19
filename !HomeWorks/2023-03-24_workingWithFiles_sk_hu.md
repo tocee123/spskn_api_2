@@ -57,7 +57,7 @@ sffejzjwptc,dumipesy,ilhvqntufv,jjfdlzfzcpon,vacpmwqnynnlufyojep,cdzfsiirg,ypvh,
 ```
 Python program's output: 
 ```
-Words that are longer than 8 characters are: joospiwddsoymj, ohtpxqdas, rfaddickfmietlitu, qcibjhadidkr, vjfadkcakn, zfwudqgofjixgijhll
-Alphabetically sorted words: ['gxuwhty', 'joospiwddsoymj', 'ohtpxqdas', 'pefqlb', 'qcibjhadidkr', 'rfaddickfmietlitu', 'urfcfya', 'uvpxp', 'vjfadkcakn', 'zfwudqgofjixgijhll']
-Average length of the word is: 10.50
+Words that are longer than 8 characters are: sffejzjwptc, ilhvqntufv, jjfdlzfzcpon, vacpmwqnynnlufyojep, cdzfsiirg, noyobnisskqvb, obqbrebemeab, siwclbvgpiwk, etpgryravlntrpj, wbzxypvfzjnimnnkpwco, sdwhinnahwkw, hyntyosvlbzm, rwiaiwrmgpwoqqughky, qjhfgftwjrnjc, mnoxdwuesedfwdwblcf, ikqzpnrbd, iixgcsubove
+Alphabetically sorted words: ['cdzfsiirg', 'dumipesy', 'etpgryravlntrpj', 'hyntyosvlbzm', 'iixgcsubove', 'ikqzpnrbd', 'ilhvqntufv', 'jjfdlzfzcpon', 'liihce', 'mnoxdwuesedfwdwblcf', 'noyobnisskqvb', 'obqbrebemeab', 'qjhfgftwjrnjc', 'rwiaiwrmgpwoqqughky', 'sdwhinnahwkw', 'sffejzjwptc', 'siwclbvgpiwk', 'tuvpitym', 'vacpmwqnynnlufyojep', 'wbzxypvfzjnimnnkpwco', 'ypvh']
+Average length of the word is: 12.10
 ```
