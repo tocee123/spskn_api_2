@@ -1,15 +1,21 @@
 # Uloha
 > Nazov suboru: `2F_priezvisko_meno.py`
 
+## ZMENA
+**Pri nacitani pouzite subor `randomWords.txt`, ktory je pripojeny k ulohe!**
+
 - Pomocou funkcie `GenerateRandomWord` vygenerujte 10 az 25 slov (`random`)
 - ulozte ich do lubovolneho suboru (`text.txt`, `randomFile.txt`, atd...), definujte si vlastny oddelovac (medzera, `,`, `;`, novy riadok `\n`)
-- Nacitajte slova zo suboru a nasledne:
+- Nacitajte slova zo suboru `randomWords.txt` a nasledne:
     - vypiste len tie, ktore su dlhsie ako 8 znakov
     - vypiste vsetky slova v abecednom poradi (`sort`)
     - zistite priemernu dlzku slova (spocitajte dlzky slov a vydelte poctom slov)
 
 # Feladat
 > A fajl neve: `2G_vezeteknev_nev.py`
+
+## VALTOZAS
+**A beolvasasnal hasznaljatok a `randomWords.txt` fajlt, amelyik a feladathoz van illesztve!**
 
 - A `GenerateRandomWord` fuggveny segitsegevel generaljatok 10-25 veletlen szot (`random`)
 - mentsetek el egy tetszoleges fajlba (`text.txt`, `randomFile.txt`, stb...), valasszatok sajat elvalasztot (szokoz, `,`, `;`, uj sor `\n`)
@@ -43,9 +49,9 @@ f = open(f"{full_path}\\test.txt", MODIFIER)
 f.write("hello World")
 f.close()
 ```
-# Example
+# Expected output
 ```
-Words that are longer than 8 characters are: dvmgrgyaykwusoa, offygqwtbfb, pljhyruiu, sbxtezagmgxzga, vxjommzzvcw, xdcevxcbuoxg
-Alphabetically sorted words: ['dvmgrgyaykwusoa', 'ijjculv', 'offygqwtbfb', 'oqspqd', 'pbyagg', 'pljhyruiu', 'ropoo', 'sbxtezagmgxzga', 'vxjommzzvcw', 'xdcevxcbuoxg']
-Average length of the word is: 9.60
+Words that are longer than 8 characters are: joospiwddsoymj, ohtpxqdas, rfaddickfmietlitu, qcibjhadidkr, vjfadkcakn, zfwudqgofjixgijhll
+Alphabetically sorted words: ['gxuwhty', 'joospiwddsoymj', 'ohtpxqdas', 'pefqlb', 'qcibjhadidkr', 'rfaddickfmietlitu', 'urfcfya', 'uvpxp', 'vjfadkcakn', 'zfwudqgofjixgijhll']
+Average length of the word is: 10.50
 ```
