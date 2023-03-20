@@ -6,6 +6,7 @@
 
 - Pomocou funkcie `GenerateRandomWord` vygenerujte 10 az 25 slov (`random`)
 - ulozte ich do lubovolneho suboru (`text.txt`, `randomFile.txt`, atd...), definujte si vlastny oddelovac (medzera, `,`, `;`, novy riadok `\n`)
+- Vypiste cely subor, ktory ste vytvorili
 - Nacitajte slova zo suboru `randomWords.txt` a nasledne:
     - vypiste len tie, ktore su dlhsie ako 8 znakov
     - vypiste vsetky slova v abecednom poradi (`sort`)
@@ -19,6 +20,7 @@
 
 - A `GenerateRandomWord` fuggveny segitsegevel generaljatok 10-25 veletlen szot (`random`)
 - mentsetek el egy tetszoleges fajlba (`text.txt`, `randomFile.txt`, stb...), valasszatok sajat elvalasztot (szokoz, `,`, `;`, uj sor `\n`)
+- Olvassatok be, es irassatok ki a fajlotok tartalmat
 - Ujra olvassatok be a fajlbol a szavakat, majd 
     - irjatok ki azokat, amelyek hosszabbak 8 betunel
     - irjatok ki az osszes szot abc sorrendben (`sort`)
