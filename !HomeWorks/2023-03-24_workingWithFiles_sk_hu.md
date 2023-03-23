@@ -4,6 +4,11 @@
 ## ZMENA
 **Pri nacitani pouzite subor `randomWords.txt`, ktory je pripojeny k ulohe!**
 
+## Chod programu
+1. Vygenerovane slova zapiste do vami urceneho suboru
+2. Nacitajte slova a vypiste statistiky z prilozeneho `randomWords.txt` suboru
+
+### Kroky
 - Pomocou funkcie `GenerateRandomWord` vygenerujte 10 az 25 slov (`random`)
 - ulozte ich do lubovolneho suboru (`text.txt`, `randomFile.txt`, atd...), definujte si vlastny oddelovac (medzera, `,`, `;`, novy riadok `\n`)
 - Vypiste cely subor, ktory ste vytvorili
@@ -17,7 +22,11 @@
 
 ## VALTOZAS
 **A beolvasasnal hasznaljatok a `randomWords.txt` fajlt, amelyik a feladathoz van illesztve!**
+## A program menete
+1. A kigeneralt veletlen szavakat mentsetek el egy altalatok meghatarozott fajlba
+2. A mellekelt `randomWords.txt` fajlbol olvassatok be a szavakat, es irjatok ki a statisztikat
 
+### Lepesel
 - A `GenerateRandomWord` fuggveny segitsegevel generaljatok 10-25 veletlen szot (`random`)
 - mentsetek el egy tetszoleges fajlba (`text.txt`, `randomFile.txt`, stb...), valasszatok sajat elvalasztot (szokoz, `,`, `;`, uj sor `\n`)
 - Olvassatok be, es irassatok ki a fajlotok tartalmat
