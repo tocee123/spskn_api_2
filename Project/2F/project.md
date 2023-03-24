@@ -15,7 +15,7 @@ Simon Zaduban | tbd |[link](https://trello.com/c/5quZ6R8q/11-simon-zaduban-proje
 Daniel Zahorec| Grafický kalkulátor |[link](https://trello.com/c/1iwYMFe0/12-daniel-z%C3%A1horec-projekt)
 
 # Z čoho máte na výber:
-1. Elektrotechnické výpočty v grafickom rozhraní
+1. ~~Elektrotechnické výpočty v grafickom rozhraní~~
 1. Matematické výpočty v grafickom rozhraní
 1. ~~Tamagochi v grafickom rozhraní~~
 1. ~~Stopky v grafickom rozhraní~~
