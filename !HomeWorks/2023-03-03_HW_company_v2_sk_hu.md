@@ -44,6 +44,13 @@ Vašou úlohou bude vybudovať firmu dôrazom na triedy, triedne atribúty, funk
 1. individuálne
 1. Vôbec neodovzdáte, opisujete, nefunguje, ako má
 
+## Za 3
+- Spravite tiredu `Zamestnanec`, ako je to aj vyssie uvedene
+- nahnodne vygenerujete 50-100 zamestnancov
+- urcite nasledovne hodnoty:
+    - pocet muzov, zien, vsetkych zamestnancov
+    - primerny plat muzov, zien, vsetkych zamestnancov
+
 # Házi feladat Cég v2.0
 > Fajl neve: `2G_vezeteknev_keresztnev_ceg2.py`
 A feladatotok egy cég létrehozása, most viszont a hangsúlyt az osztályokra, attribútumokra és függvényekre tesszük.
@@ -91,6 +98,13 @@ A feladatotok egy cég létrehozása, most viszont a hangsúlyt az osztályokra,
 1. Csak egy részét csináljátok meg a programnak
 1. Individuálisan
 1. Egyáltalán nem adjátok le, másoltok, vagy nem működik
+
+## 3asert
+- Elkeszitetek az `Alkalmazott` osztalyt, ahogy azt fentebb definalva van
+- veletlenszeruen kigeneraltok 50-100 alkalmazottat
+- meghatarozzatok a kovetkezo erteteket:
+    - a ferfiak, nok es osszes alkalmazott szamat
+    - a ferfiak, nok es osszes alkalmazott atlagfizeteset
 
 # Help skeleton
 
