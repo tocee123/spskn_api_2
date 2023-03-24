@@ -21,7 +21,7 @@ Daniel Zahorec| Grafický kalkulátor |[link](https://trello.com/c/1iwYMFe0/12-d
 1. ~~Stopky v grafickom rozhraní~~
 1. ~~Grafický kalkulátor: najväčší spoločný deliteľ, najmenší spoločný násobok, rozloženie čísla na prvočísla~~
 1. ~~Grafický kvízprogram (téma: **informatika**): databáza aspoň 5 súborov, aspoň 10 otázok v súbore, 5 možných odpovedí. Otázky a odpovede sú vypísané náhodne, na konci úkáže skóre~~
-1. Grafický kvízprogram (téma: **elektrotechnika**): databáza aspoň 5 súborov, aspoň 10 otázok v súbore, 5 možných odpovedí. Otázky a odpovede sú vypísané náhodne, na konci úkáže skóre
+1. ~~Grafický kvízprogram (téma: **elektrotechnika**): databáza aspoň 5 súborov, aspoň 10 otázok v súbore, 5 možných odpovedí. Otázky a odpovede sú vypísané náhodne, na konci úkáže skóre~~
 1. ~~Adresár (meno, priezvisko, telefónne číslo, adresa, email) aspoň 25 mien~~
     - použite slovník, 
     - pracujte so súbormi 
