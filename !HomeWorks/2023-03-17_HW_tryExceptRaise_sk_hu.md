@@ -8,7 +8,7 @@ Napiste program, ktory nacita z klavesnice 2 kladne cele cisla nasledovne:
 Program musi vediet zvladnut:
 - ked uzivatel zada nie cele cislo ('apple', '123asd', '12.312'), program sa neukonci, znovu si vypyta hodnotu od pouzivatela
 - ked uzivatel zada cele cislo <= 0 -> kod 'hodi' (`raise`) vlastnu chybu, ktora indikuje, ze hodnota bola mensia alebo rovna nule
-- ked uzivatel zada 2. cislo <= 3krat prve cislo -> kod 'hodi' (`raise`) vlastnu chybu, ktora indikuje, ze hodnota bola mensia, ako 3krat prve cislo
+- ked uzivatel zada 2. cislo < 3krat prve cislo -> kod 'hodi' (`raise`) vlastnu chybu, ktora indikuje, ze hodnota bola mensia, ako 3krat prve cislo
 
 ## Chod programu:
 - zadefinujte aspon 2 typy chyb (`class`, ktora dedi od `Exception`)
