@@ -7,6 +7,8 @@ Na hodine kazdy ukaze, kde sa dostal s projektom:
 ## 19-5-2023 deadline
 Tu uz budete mat program hotovy a prezentovatelny
 niekedy po praxi odprezenetujete
+## jun 2023
+Po praxi prezentacia
 
 ## Znamky
 Takze dokopy budete mat 3 znamky:
