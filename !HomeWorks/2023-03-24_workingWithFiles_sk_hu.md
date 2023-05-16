@@ -26,7 +26,7 @@
 1. A kigeneralt veletlen szavakat mentsetek el egy altalatok meghatarozott fajlba
 2. A mellekelt `randomWords.txt` fajlbol olvassatok be a szavakat, es irjatok ki a statisztikat
 
-### Lepesel
+### Lepesek
 - A `GenerateRandomWord` fuggveny segitsegevel generaljatok 10-25 veletlen szot (`random`)
 - mentsetek el egy tetszoleges fajlba (`text.txt`, `randomFile.txt`, stb...), valasszatok sajat elvalasztot (szokoz, `,`, `;`, uj sor `\n`)
 - Olvassatok be, es irassatok ki a fajlotok tartalmat
