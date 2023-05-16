@@ -29,8 +29,7 @@
 ### Lepesek
 - A `GenerateRandomWord` fuggveny segitsegevel generaljatok 10-25 veletlen szot (`random`)
 - mentsetek el egy tetszoleges fajlba (`text.txt`, `randomFile.txt`, stb...), valasszatok sajat elvalasztot (szokoz, `,`, `;`, uj sor `\n`)
-- Olvassatok be, es irassatok ki a fajlotok tartalmat
-- Ujra olvassatok be a fajlbol a szavakat, majd 
+- A mellekelt `randomWords.txt` fajlbol olvassatok be a szavakat, es irjatok ki a statisztikat:
     - irjatok ki azokat, amelyek hosszabbak 8 betunel
     - irjatok ki az osszes szot abc sorrendben (`sort`)
     - hatarozzatok meg az atlagos szohosszt (adjatok ossze az egyes szavak hosszat, majd osszatok el a szavak szamaval)
