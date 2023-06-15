@@ -5,9 +5,9 @@ Samuel Lovasz |Tamagochi v grafickom rozhraní |[link](https://trello.com/c/EDD2
 Adam Nano| Praca s IP adresami | [link](https://trello.com/c/EDudAD68/2-adam-na%C5%84o-projekt)|**ANO**
 Andrej Ondrusek | Stopky v grafickom rozhraní |[link](https://trello.com/c/oiqN5dBw/3-andrej-ondru%C5%A1ek-projekt)|**ANO**
 Tobias Schwiegart | Adresár |[link](https://trello.com/c/qVloD2hV/4-tobias-schweigart-projekt)|**ANO**
-Samuel Jan Sokol | Elektrotechnické výpočty v grafickom rozhraní |[link](https://trello.com/c/vQIybvdD/5-samuel-sokol-projekt)|**NIE**
+Samuel Jan Sokol | Elektrotechnické výpočty v grafickom rozhraní |[link](https://trello.com/c/vQIybvdD/5-samuel-sokol-projekt)|**ANO**
 Tomas Spevar | Hra loto |[link](https://trello.com/c/cwSmSHEY/6-tom%C3%A1%C5%A1-spev%C3%A1r-projekt)|**NIE**
-Patrik Szabo | Praca s datumami |[link](https://trello.com/c/Jps15wFs/7-patrik-szabo-projekt)|**NIE**
+Patrik Szabo | Praca s datumami |[link](https://trello.com/c/Jps15wFs/7-patrik-szabo-projekt)|**ANO**
 Robert Takacs | Skladová databáza súčiastok |[link](https://trello.com/c/8QevU1Zu/8-robert-tak%C3%A1cs-projekt)|**ANO**
 Attila Toth | Grafický kvízprogram (téma: **informatika**) |[link](https://trello.com/c/4cIPPreX/9-attila-t%C3%B3th-projekt)|**ANO**
 Richard Vida | presypacie hodiny |[link](https://trello.com/c/rg84t45J/10-richard-vida-projekt)|**ANO**
