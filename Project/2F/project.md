@@ -1,18 +1,18 @@
 # Projekty 2F
-Meno|Projekt|url
--|-|-|
-Samuel Lovasz |Tamagochi v grafickom rozhraní |[link](https://trello.com/c/EDD2DM6V/1-samuel-lov%C3%A1sz-projekt)
-Adam Nano| Praca s IP adresami | [link](https://trello.com/c/EDudAD68/2-adam-na%C5%84o-projekt)
-Andrej Ondrusek | Stopky v grafickom rozhraní |[link](https://trello.com/c/oiqN5dBw/3-andrej-ondru%C5%A1ek-projekt)
-Tobias Schwiegart | Adresár |[link](https://trello.com/c/qVloD2hV/4-tobias-schweigart-projekt)
-Samuel Jan Sokol | Elektrotechnické výpočty v grafickom rozhraní |[link](https://trello.com/c/vQIybvdD/5-samuel-sokol-projekt)
-Tomas Spevar | Hra loto |[link](https://trello.com/c/cwSmSHEY/6-tom%C3%A1%C5%A1-spev%C3%A1r-projekt)
-Patrik Szabo | Praca s datumami |[link](https://trello.com/c/Jps15wFs/7-patrik-szabo-projekt)
-Robert Takacs | Skladová databáza súčiastok |[link](https://trello.com/c/8QevU1Zu/8-robert-tak%C3%A1cs-projekt)
-Attila Toth | Grafický kvízprogram (téma: **informatika**) |[link](https://trello.com/c/4cIPPreX/9-attila-t%C3%B3th-projekt)
-Richard Vida | presypacie hodiny |[link](https://trello.com/c/rg84t45J/10-richard-vida-projekt)
-Simon Zaduban | Grafický kvízprogram (téma: **elektrotechnika**) |[link](https://trello.com/c/5quZ6R8q/11-simon-zaduban-projekt)
-Daniel Zahorec| Grafický kalkulátor |[link](https://trello.com/c/1iwYMFe0/12-daniel-z%C3%A1horec-projekt)
+Meno|Projekt|url|Prezentacia
+-|-|-|-|
+Samuel Lovasz |Tamagochi v grafickom rozhraní |[link](https://trello.com/c/EDD2DM6V/1-samuel-lov%C3%A1sz-projekt)|**NIE**
+Adam Nano| Praca s IP adresami | [link](https://trello.com/c/EDudAD68/2-adam-na%C5%84o-projekt)|**ANO**
+Andrej Ondrusek | Stopky v grafickom rozhraní |[link](https://trello.com/c/oiqN5dBw/3-andrej-ondru%C5%A1ek-projekt)|**ANO**
+Tobias Schwiegart | Adresár |[link](https://trello.com/c/qVloD2hV/4-tobias-schweigart-projekt)|**ANO**
+Samuel Jan Sokol | Elektrotechnické výpočty v grafickom rozhraní |[link](https://trello.com/c/vQIybvdD/5-samuel-sokol-projekt)|**NIE**
+Tomas Spevar | Hra loto |[link](https://trello.com/c/cwSmSHEY/6-tom%C3%A1%C5%A1-spev%C3%A1r-projekt)|**NIE**
+Patrik Szabo | Praca s datumami |[link](https://trello.com/c/Jps15wFs/7-patrik-szabo-projekt)|**NIE**
+Robert Takacs | Skladová databáza súčiastok |[link](https://trello.com/c/8QevU1Zu/8-robert-tak%C3%A1cs-projekt)|**ANO**
+Attila Toth | Grafický kvízprogram (téma: **informatika**) |[link](https://trello.com/c/4cIPPreX/9-attila-t%C3%B3th-projekt)|**ANO**
+Richard Vida | presypacie hodiny |[link](https://trello.com/c/rg84t45J/10-richard-vida-projekt)|**ANO**
+Simon Zaduban | Grafický kvízprogram (téma: **elektrotechnika**) |[link](https://trello.com/c/5quZ6R8q/11-simon-zaduban-projekt)|**NIE**
+Daniel Zahorec| Grafický kalkulátor |[link](https://trello.com/c/1iwYMFe0/12-daniel-z%C3%A1horec-projekt)|**ANO**
 
 # Z čoho máte na výber:
 1. ~~Elektrotechnické výpočty v grafickom rozhraní~~
