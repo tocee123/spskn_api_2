@@ -149,3 +149,6 @@ def masik_fuggveny():
 - `datetime` dátum
 - `list[]` lista, tömb
 - `dict[,]` szótár
+
+## Feladat
+Írjátok ki a képernyőre a következő üdvözletet `Hello!` a `print()` függvény segítésgével

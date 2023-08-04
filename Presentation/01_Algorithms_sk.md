@@ -149,3 +149,6 @@ def ina_funkcia():
 - `datetime` dátum
 - `list[]` zoznam, pole
 - `dict[,]` slovník
+
+## Úloha
+Vypíšte na obrazovku pozdrav `Hello!` pomocou funkcie `print()`
